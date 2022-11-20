@@ -1,0 +1,9 @@
+{
+  "WELCOME_HELP_DESCRIPTION": "Cambie la configuración para cuando los usuarios se unan al servidor.",
+  "WELCOME_HELP_USAGE": [
+    "Establezca un papel para que los usuarios ganen al unir el servidor.",
+    "Desactivar la configuración para que los usuarios obtengan un papel al unirse."
+  ],
+  "WELCOME_ENABLE": "Los usuarios ahora obtendrán el rol %s al unirse al servidor.",
+  "WELCOME_DISABLE": "Los usuarios ya no obtendrán un papel al unirse al servidor."
+}

@@ -1,0 +1,18 @@
+{
+  "KOTH_HELP_DESCRIPTION": "Una tabla de clasificación temporal, que permite al miembro superior ganar diferentes recompensas.",
+  "KOTH_HELP_USAGE": [
+    "Start/End Koth Event.````/koth <start/end> [canal] `` `` ``",
+    "Establezca una recompensa para el miembro principal del Koth Leaderbaord.'`` `` `` `` `` `` `` `` `` `` `` `` `` `` ``",
+    "Muestra la tabla de clasificación de Koth para el servidor."
+  ],
+  "KOTH_ENABLE": "¡Koth ha comenzado!¡Reclamar los usuarios de su corona 👑!",
+  "KOTH_ENABLE_REWARD": "¡Koth ha sido iniciado!El miembro superior obtendrá un rol de %S.",
+  "KOTH_DISABLE": "Koth ya está deshabilitado.",
+  "KOTH_REWARD_ADD_SUCCESS": "El ganador de Koth ganará el papel de %en el reinicio de Koth.",
+  "KOTH_WINNERS": "Ganadores de Koth",
+  "KOTH_STARTED": "Koth comenzó",
+  "KOTH_NO_WINNERS": "No hay suficientes usuarios activos en este gremio para terminar con Koth.",
+  "KOTH_WINNERS_SENT": "El anuncio de los ganadores de Koth ha sido enviado a %s.",
+  "KOTH_START_SENT": "El anuncio inicial de Koth ha sido enviado a %s.",
+  "KOTH_DISABLED": "Koth está actualmente deshabilitado en este gremio.Por favor, solicite a los administradores que habiliten Koth."
+}

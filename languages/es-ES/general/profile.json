@@ -1,0 +1,22 @@
+{
+  "PROFILE_HELP_DESCRIPTION": "Cambia la apariencia de tu tarjeta de rango.",
+  "PROFILE_HELP_USAGE": [
+    "Cambie el color para su tarjeta de rango.",
+    "Cambie la opacidad para su tarjeta de rango.",
+    "Cambie los antecedentes de su tarjeta de rango.",
+    "Cambie la superposición de su tarjeta de rango."
+  ],
+  "PROFILE_IS_NOT_COLOR": "Incapaz de encontrar el color '%s' dado. Seleccione un color de uno de los siguientes colores: `` `predeterminado\nazul\ngris\nverde\nnaranja\nrosado\nvioleta\nrojo\nverde azulado\namarillo````````",
+  "PROFILE_IS_NOT_HEX": "El color '%s' no es un color hexadecimal. Asegúrese de que el color siga un formato de color hexadecimal (#6CFFAC).",
+  "PROFILE_COLOR_SUCCESS": "El color de perfil se ha actualizado a **%s **.",
+  "PROFILE_IMAGE_INVALID": "El enlace dado no es una imagen, proporcione un enlace de imagen válido.",
+  "PROFILE_DONATOR_ONLY": "Esta característica solo está disponible para el donante. Obtenga más información utilizando `/donate`",
+  "PROFILE_BACKGROUND_DEFAULT_SUCCESS": "El fondo de perfil se ha establecido en el valor predeterminado.",
+  "PROFILE_BACKGROUND_SUCCESS": "Los antecedentes se han cargado en la base de datos.",
+  "PROFILE_OVERLAY_DEFAULT_SUCCESS": "La superposición de perfil se ha retrasado en el valor predeterminado.",
+  "PROFILE_OVERLAY_SUCCESS": "Overlay se ha subido a la base de datos.",
+  "PROFILE_DISCORD_TOS": "Al continuar, entiende la imagen que está cargando, sigue los ** [Términos de servicio de Discord] (https://discord.com/terms) **. Cualquier cosa que esté cargada es su responsabilidad y lo responsabilizarán por ello.",
+  "PROFILE_NSFW_WARNING": "¡ADVERTENCIA! Las imágenes NSFW pueden resultar en una prohibición de nuestro bot.",
+  "PROFILE_OPACITY_TOO_HIGH": "Asegúrese de que la opacidad esté entre 0 y 100.",
+  "PROFILE_OPACITY_SUCCESS": "La opacidad del perfil se ha establecido en **%s%**."
+}

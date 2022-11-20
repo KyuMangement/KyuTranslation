@@ -1,0 +1,7 @@
+{
+  "TEST_HELP_DESCRIPTION": "Prueba de anuncios personalizados",
+  "TEST_HELP_USAGE": [
+    "Pruebe anuncios personalizados.'``/test [nivel] `` `` `` `` `` `` `` `` `` `` `"
+  ],
+  "TEST_LEVEL_NOT_FOUND": "Incapaz de encontrar un anuncio incrustado para el nivel `%S`."
+}

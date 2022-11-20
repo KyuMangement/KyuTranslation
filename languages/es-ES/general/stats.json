@@ -1,0 +1,6 @@
+{
+  "STATS_HELP_DESCRIPTION": "Verifique la configuración del servidor actual.",
+  "STATS_HELP_USAGE": [
+    "Verifique las estadísticas de BOT actuales.'``/Stats````"
+  ]
+}

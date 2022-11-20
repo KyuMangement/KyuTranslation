@@ -1,0 +1,15 @@
+{
+  "LOOTBOX_HELP_DESCRIPTION": "Abra lootboxes para ganar exp.",
+  "LOOTBOX_HELP_USAGE": [
+    "Abra un Lootbox para ganar una exp y otras recompensas adicionales.",
+    "Desactivar/habilitar la capacidad de los miembros para abrir Lootboxes (solo administradores) .````/lootbox toggle````````",
+    "Consulte sus estadísticas actuales de lootboxes."
+  ],
+  "LOOTBOX_ENABLED": "Los botamentos ahora han sido ** habilitados *** en este servidor.",
+  "LOOTBOX_DISABLED": "Los botamentos ahora han sido ** deshabilitados ** en este servidor.",
+  "LOOTBOX_SERVER_DISABLED": "Parece que los botamentos están deshabilitados en este servidor <: Kyusad: 948319004869668915>.¡PIENDO SERVER Admin para ** Habilitar Lootboxes! **",
+  "LOOTBOX_MAX": "Ha abierto la cantidad máxima de botamentos en este servidor para la semana.Puede abrir más Lootboxes después de %s.",
+  "LOOTBOX_NONE_LEFT": "Parece que no te quedan l sacos.¡Vota para ganar más!",
+  "LOOTBOX_EXP": "Ganado `%S` <: gweensparkles: 933110632444723261> exp de Lootbox.",
+  "LOOTBOX_OPENED": "%sx lootbox abierto!"
+}

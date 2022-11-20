@@ -1,0 +1,17 @@
+{
+  "RESET_HELP_DESCRIPTION": "Restablecer usuarios o configuraciones específicos para el servidor actual.",
+  "RESET_HELP_USAGE": [
+    "Restablecer configuraciones específicas para el servidor actual.'``/Restablecer usuario <ember> `` `` `` `` `` `` `` `` `` `` ``",
+    "Restablecer una configuración específica.'``/Restablecer Configuración <Cection> `` `` `` `` `` `` `` `` ``"
+  ],
+  "RESET_SETTINGS_QUESTION": "¿Estás seguro de que quieres eliminar ** todas las configuraciones **?",
+  "RESET_POINTS_QUESTION": "¿Estás seguro de que quieres eliminar ** todos los puntos **?",
+  "RESET_QUESTION": "¿Estás seguro de que quieres eliminar la configuración **%s **?",
+  "RESET_FOOTER": "¡ADVERTENCIA!El restablecimiento no es reversible.",
+  "RESET_POINTS_SUCCESS": "** Puntos ** Para todos los miembros se han restablecido.",
+  "RESET_SETTINGS_SUCCESS": "**%S ** se han restablecido la configuración",
+  "RESET_SUCCESS": "El reinicio para la configuración **%s ** ha sido cancelada.",
+  "RESET_USER_NOT_FOUND": "Ingrese a un usuario válido.",
+  "RESET_USER_SUCCESS": "Miembro %S Exp ha sido reiniciado.",
+  "RESET_USER_FAILED": "No se puede restablecer el miembro %s.Si este problema sigue ocurriendo, comuníquese con mis desarrolladores."
+}

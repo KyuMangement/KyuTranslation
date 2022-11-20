@@ -1,0 +1,10 @@
+{
+  "DONATE_HELP_DESCRIPTION": "Donar para desbloquear características adicionales",
+  "DONATE_HELP_USAGE": [
+    "Encuentre información sobre cómo donar."
+  ],
+  "DONATE_TITLE": "Kyubot Premium",
+  "DONATE_DESCRIPTION": "Si le gusta usar Kyubot, considere donar.Las donaciones le permiten desbloquear ** características adicionales ** y también nos permiten seguir alojando, desarrollando y creando actualizaciones de contenido para el bot.",
+  "DONATE_FIELD_NAME": "Ventajas premium",
+  "DONATE_FIELD_VALUE": "- Personalizar el fondo de la tarjeta de rango\n- personalizar el color de la tarjeta de rango\n- Personalizar la opacidad de la tarjeta de rango\n- Dar/eliminar la experiencia de los miembros (requiere administrador)\n- Cooldas inferiores\n- Sneakpeaks a nuevas características"
+}

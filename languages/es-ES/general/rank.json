@@ -1,0 +1,8 @@
+{
+  "RANK_HELP_DESCRIPTION": "Verifique su rango u otro rango de usuario",
+  "RANK_HELP_USAGE": [
+    "Verifique su rango u otro rango de usuario."
+  ],
+  "RANK_VOTE": "Votar por el 15% de impulso",
+  "RANK_IS_BOT": "Incapaz de verificar el rango de un bot."
+}

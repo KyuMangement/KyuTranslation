@@ -1,0 +1,10 @@
+{
+  "REMOVEXP_HELP_DESCRIPTION": "Elimine una cantidad específica de EXP de un usuario.",
+  "REMOVEXP_HELP_USAGE": [
+    "Elimine una cantidad específica de EXP de un usuario."
+  ],
+  "REMOVEXP_USER_NOT_PREMIUM": "Esta característica solo está disponible para el donante.Obtenga más información utilizando 'donate'",
+  "REMOVEXP_INPUT_TOO_HIGH": "Solo EXP entre 1-20,000 se puede eliminar a la vez.Cambie la cantidad de exp.",
+  "REMOVEXP_USER_NOT_FOUND": "No se puede encontrar al usuario mencionado, asegúrese de que el usuario proporcionado esté en el gremio.",
+  "REMOVEXP_SUCCESS": "** %s ** exp se ha eliminado de %s."
+}

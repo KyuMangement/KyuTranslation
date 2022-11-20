@@ -1,0 +1,33 @@
+{
+  "EMBED_HELP_DESCRIPTION": "Cambiar la configuración para anuncios.",
+  "EMBED_HELP_USAGE": [
+    "Conjuntos Si los anuncios se envían con incrustaciones o sin .````/Incrementar Toggle <Disable/Enable> [nivel] `` `` `` `` `` `` `` `` `",
+    "Habilitar/deshabilitar pings para los mensajes de anuncio.'``/incrustar ping disable/habilitar> [nivel] `` `` ``",
+    "Personalice las diferentes secciones de las incrustaciones.\n/incrustar personalizar descripción <put> [nivel]\n/incrustar personalizar imagen <put> [nivel]\n/incrustar personalizar color <input> [nivel] `` `` `` `` `` `` `` `` `` `` `",
+    "Agregue una incrustación para un nivel específico \".",
+    "Retire una incrustación para un nivel específico.'```/Incremento de eliminación <livel> `` `` `` `` `` `` `` ``",
+    "Pruebe el mensaje del anuncio actual.",
+    "Obtenga una lista de todas las variables disponibles para Kyubot."
+  ],
+  "EMBED_TOGGLE_ENABLED": "Las incrustaciones han sido ** habilitadas ** para anuncios.",
+  "EMBED_TOGGLE_DISABLED": "Las incrustaciones han sido ** deshabilitadas ** para anuncios.",
+  "EMBED_PING_ENABLED": "Los pings han sido ** habilitados ** para anuncios.",
+  "EMBED_PING_DISABLED": "Los pings han sido ** deshabilitados ** para anuncios.",
+  "EMBED_TITLE_TOO_LONG": "El recuento de personajes máximos es 100 por el título, usted ha superado el conteo de **%s **.",
+  "EMBED_TITLE_UPDATED": "El título de anuncio se ha actualizado a: `` `%S```",
+  "EMBED_DESCRIPTION_TOO_LONG": "El recuento de personajes máximos es 1250, ya está superado por **%s **.",
+  "EMBED_DESCRIPTION_UPDATED": "El mensaje de anuncio se ha actualizado a: `` `%S```",
+  "EMBED_IMAGE_INVALID": "El enlace dado no es una imagen, proporcione un enlace de imagen válido. Tipos de imágenes actualmente compatibles: JPG | JPEG | PNG | gif.",
+  "EMBED_IMAGE_UPDATED": "Anuncio de inserción La imagen se ha actualizado a %s\n\nAl continuar, entiende la imagen que está cargando, sigue los ** [Términos de servicio de Discord] (https://discord.com/terms) **. Cualquier cosa que esté cargada es su responsabilidad y lo responsabilizarán por ello.",
+  "EMBED_COLOR_INVALID": "El color %s no es un color válido. Seleccione un color de uno de los siguientes colores: `` `predeterminado\nazul\ngris\nverde\nnaranja\nrosado\nvioleta\nrojo\nverde azulado\namarillo````````",
+  "EMBED_COLOR_UPDATED": "El color de incrustación para el anuncio se ha actualizado a **%s **.",
+  "EMBED_CUSTOMISE_INVALID_SECTION": "No se puede editar %s, secciones actuales que se pueden editar son: `Título, descripción, imagen, color`.",
+  "EMBED_CUSTOMISE_ADD_INVALID_LEVEL": "No se puede establecer el anuncio de nivel %s. Asegúrese de que el nivel sea un entero.",
+  "EMBED_CUSTOMISE_ADD_ALREADY_EXISTS": "El anuncio ya existe para el nivel %s. Eliminar/editar la incrustación actual.",
+  "EMBED_CUSTOMISE_ADD_MAX_REACHED": "Ha alcanzado la cantidad máxima de 10 incrustaciones personalizadas. Elimine una incrustación, antes de agregar una nueva incrustación para el nivel %s",
+  "EMBED_CUSTOMISE_ADD_SUCCESS": "Se ha agregado una incrustación personalizada para el nivel %s.",
+  "EMBED_CUSTOMISE_REMOVE_INVALID_LEVEL": "La incrustación personalizada no existe para el nivel %s.",
+  "EMBED_CUSTOMISE_REMOVE_NOT_EXISTS": "La incrustación personalizada no existe para el nivel %s.",
+  "EMBED_CUSTOMISE_REMOVE_SUCCESS": "La incrustación personalizada se ha eliminado para el nivel %s.",
+  "EMBED_NOT_FOUND": "No se puede encontrar la incrustación para el nivel %s."
+}

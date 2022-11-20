@@ -1,0 +1,19 @@
+{
+  "IGNORE_HELP_DESCRIPTION": "Ignore los canales/comandos cuando se ejecutan.",
+  "IGNORE_HELP_USAGE": [
+    "Agrega/elimina un canal a la lista ignorada.'``/Ignore Channel <add/remo",
+    "Agrega/elimina un comando a la lista ignorada.'``/ignorar el comando <add/remo",
+    "Muestra una lista de comandos y canales actualmente ignorados."
+  ],
+  "IGNORE_CHANNEL_ADD_SUCCESS": "%s ha sido ** agregado ** a la lista ignorada.",
+  "IGNORE_CHANNEL_NOT_EXISTS": "No se puede encontrar el canal proporcionado.",
+  "IGNORE_CHANNEL_ADD_EXISTS": "Channel %s ya es ** ** en la lista ignorada.",
+  "IGNORE_CHANNEL_REMOVE_SUCCESS": "Channel %s ha sido ** eliminado ** de la lista Ignore.",
+  "IGNORE_cHANNEL_REMOVE_NOT_EXISTS": "Channel %s es ** no ** en la lista ignorada.",
+  "IGNORE_COMMAND_ADD_SUCCESS": "El comando `%S` ha sido ** agregado ** para ignorar la lista.",
+  "IGNORE_COMMAND_NOT_EXISTS": "El comando `%S` no se puede encontrar.",
+  "IGNORE_COMMAND_INVALID": "Los comandos `ayuda` y 'ignorar` no se pueden agregar para ignorar la lista.",
+  "IGNORE_COMMAND_ADD_EXISTS": "El comando `%S` es ** ya ** en la lista ignorada.",
+  "IGNORE_COMMAND_REMOVE_SUCCESS": "El comando `%S` ha sido ** eliminado ** de la lista Ignore.",
+  "IGNORE_COMMAND_REMOVE_NOT_EXISTS": "El comando `%S` es ** no ** en la lista ignorada."
+}

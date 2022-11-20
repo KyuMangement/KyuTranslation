@@ -1,0 +1,15 @@
+{
+  "IMPORT_HELP_DESCRIPTION": "Niveles de importación de varios otros bots a Kyubot.",
+  "IMPORT_HELP_USAGE": [
+    "Los niveles de importación de varios otros bots en Kyubot."
+  ],
+  "IMPORT_NOT_FOUND_MEE6": "Incapaz de encontrar una tabla de clasificación.Visite https://mee6.xyz/dashboard/${message.guild.id}/leaderboard y asegúrese de que su tabla de clasificación sea pública.",
+  "IMPORT_NOT_FOUND": "Incapaz de encontrar una tabla de clasificación.Parece que este gremio no tiene ningún nivel en %s.",
+  "IMPORT_IN_PROGRESS": "Los niveles se están importando actualmente de %s.Una vez importado, será notificado.",
+  "IMPORT_TITLE": "¡Importación de nivel!",
+  "IMPORT_DESCRIPTION": "Al continuar, entiende que ** todos los niveles actuales de miembros se borrarán **.Seleccione Continuar importando todos los niveles.",
+  "IMPORT_CANCELLED_TITLE": "¡Nivel de importación cancelada!",
+  "IMPORT_CANCELLED_DESCRIPTION": "Los niveles de importación han sido cancelados.",
+  "IMPORT_CONFIRMED_TITLE": "¡Comenzó la importación de nivel!",
+  "IMPORT_CONFIRMED_DESCRIPTION": "Los niveles se importan de `%S`.Mientras esto está sucediendo, la nivelación se deshabilitará en este servidor.Se le notificará cuando los niveles se hayan importado en %s."
+}

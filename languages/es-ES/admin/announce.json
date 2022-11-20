@@ -1,0 +1,15 @@
+{
+  "ANNOUNCE_HELP_DESCRIPTION": "Cambiar la configuración de los mensajes de anuncio de nivel.",
+  "ANNOUNCE_HELP_USAGE": [
+    "Cambie el mensaje personalizado o obtenga más información.\n/anunciar mensaje predeterminado\n/anunciar variables de mensaje````",
+    "Habilitar/deshabilitar pings para mensajes de anuncio.",
+    "Pruebe el mensaje de anuncio actual."
+  ],
+  "ANNOUNCE_MESSAGE_TOO_LONG": "El recuento de personajes máximos es 1250, ya está superado por **%s **.",
+  "ANNOUNCE_MESSAGE_SUCCESS": "El mensaje de anuncio se ha actualizado a: `` `%S```",
+  "ANNOUNCE_MESSAGE_DEFAULT": "El mensaje de anuncio se ha restablecido al mensaje básico.",
+  "ANNOUNCE_PING_INCORRECT": "Habilitar/deshabilitar pings para mensajes de anuncio.",
+  "ANNOUNCE_VARIABLES": "Establece un mensaje personalizado para mensajes de anuncio.\n/anunciar mensaje predeterminado```\n__Variables__\n`{user.ping}`: @kyubot\n`{user.tag}`: Kyubot#9767\n`{user.name}`: Kyubot\n`{user.avatar}`: Avatar de usuario\n`{user.id}`: 932319321559015526\n`{user.nick}`: Apodo del usuario\n`{user.exp}`: Experiencia de miembro\n\n`{nivel}`: nivel obtenido\n`{nivel.previous}`: nivel anterior\n`{nivel.previous.EXP}`: Experiencia de nivel anterior\n`{nivel.next}`: siguiente nivel\n`{nivel.next.exp}`: Experiencia en el siguiente nivel\n\n`{recompensa}`:\n`{recompensa.role.name}`: nombre de rol obtenido\n`{recompensa.rolecount}`: Contejo de miembros de rol obtenido\n`{recompensa.rolecount.progess}`: Porcentaje de roles que el usuario tiene de todas las funciones obtenibles\n`{recompensa.previous}`: rol anterior\n`{recompensa.next}`: siguiente rol\n\n`{server.name}`: nombre del servidor\n`{server.id}`: ID de servidor\n`{server.icon}`: icono del servidor\n\n`{canal}`: canal de anuncio\n`{channel.name}`: Nombre del canal de anuncio\n`{Channel.id}`: ID de canal de anuncio\n\n`{fecha}`: fecha actual (<t:%s: f>)",
+  "ANNOUNCE_PING_SUCCESS_ENABLED": "El anuncio se ha establecido pings en ** habilitado **.",
+  "ANNOUNCE_PING_SUCCESS_DISABLED": "Los pings de anuncio se han establecido en ** discapacitado **."
+}

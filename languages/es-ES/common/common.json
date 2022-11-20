@@ -1,0 +1,22 @@
+{
+  "ERROR_MESSAGE": "Se ha producido un problema mientras ejecuta el comando.Si este error sigue ocurriendo, comuníquese con mi equipo de desarrollo.",
+  "HIERARCHY_ERROR": "Asegúrese de que el papel de Kyubot esté por encima del %s en la jerarquía de roles.",
+  "DONATE": "Donar",
+  "INVITE": "Invitar",
+  "VOTE": "Votar",
+  "ADD_KYU": "Agregar kyu",
+  "SUPPORT_KYU": "Soporte de KYU",
+  "VOTE_FOR_KYU": "Votar por KYU",
+  "KYU_PREMIUM": "Kyu Premium",
+  "SUPPORT_SERVER": "Servidor de soporte",
+  "DOCS": "Kyu Docs",
+  "CLICK_HERE": "Haga clic aquí",
+  "FOOTER": "Escriba `/ayuda %s` para obtener más ayuda.Por ejemplo, /ayuda para ayudar",
+  "ERROR": "Error",
+  "CONFIRM": "Confirmar",
+  "DECLINE": "Rechazar",
+  "PREVIOUS": "Anterior",
+  "STOP": "Deténgase",
+  "NEXT": "próximo",
+  "UNKNOWN_ERROR": "Se ha producido un problema mientras ejecuta el comando.Si este error sigue ocurriendo, comuníquese con mi equipo de desarrollo."
+}
