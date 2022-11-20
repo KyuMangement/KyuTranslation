@@ -1,0 +1,21 @@
+{
+  "BLACKLIST_HELP_DESCRIPTION": "Blacklist channels/roles from gaining exp.",
+  "BLACKLIST_HELP_USAGE": [
+    "Adds/removes a channel to the blacklist.```/blacklist channel <add/remove> <channel>```",
+    "Adds/removes a role to the blacklist.```/blacklist role <add/remove> <role>```",
+    "Shows a list of currently blacklisted roles and channels.```/blacklist show```"
+  ],
+  "BLACKLIST_INVALID_CHANNEL_TYPE": "Given channel type is invalid, please make sure channel type is `%s`.",
+  "BLACKLIST_CHANNEL_ALREADY_BLACKLISTED": "%s channel is already blacklisted.",
+  "BLACKLIST_CHANNEL_ADDED": "Channel **%s** has been blacklisted.",
+  "BLACKLIST_NOT_FOUND": "Unable to find role/channel using search query `%s`. Make sure the given query is correct.",
+  "BLACKLIST_CHANNEL_NOT_BLACKLISTED": "%s channel is not blacklisted.",
+  "BLACKLIST_CHANNEL_REMOVED": "Channel **%s** has been removed from the blacklist.",
+  "BLACKLIST_ROLE_ALREADY_BLACKLISTED": "%s is already blacklisted.",
+  "BLACKLIST_ROLE_ADDED": "Role **%s** has been blacklisted.",
+  "BLACKLIST_ROLE_REMOVED": "Role **%s** has been removed from the blacklist.",
+  "BLACKLIST_ROLE_NOT_BLACKLISTED": "%s role is not blacklisted.",
+  "BLACKLIST_ROLE_LIST": "Blacklisted roles:```%s```",
+  "BLACKLIST_CHANNEL_LIST": "Blacklisted channels:```%s```",
+  "BLACKLIST_ROLE_LIST_EMPTY": "There are no blacklisted roles."
+}

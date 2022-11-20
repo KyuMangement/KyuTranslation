@@ -1,0 +1,15 @@
+{
+  "REWARDS_HELP_DESCRIPTION": "Change settings for rewards earned upon leveling up.",
+  "REWARDS_HELP_USAGE": [
+    "Set role to be given when a member reaches the specified level.```/rewards add <level> <role>```",
+    "Remove role from be given at a specified level.```/rewards remove <level>```",
+    "Set roles to be stacked or replaced after gaining new role.```/rewards stack <enable/disable>```",
+    "Shows all roles set to levels.```/rewards show```"
+  ],
+  "REWARDS_SUCCESS": "Members will now gain role %s at level `%s`.",
+  "REWARDS_NOT_EXISTS": "Unable to find a reward for level %s.",
+  "REWARDS_REMOVED": "Members will no longer gain a role at level `%s`.",
+  "REWARDS_STACK": "Roles will now be stacked.",
+  "REWARDS_REPLACE": "Roles will now be replaced.",
+  "REWARDS_LIMIT": "Too many roles have been set up. Currently only 30 role rewards can be setup."
+}

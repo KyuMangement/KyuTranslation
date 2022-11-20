@@ -1,0 +1,19 @@
+{
+  "IGNORE_HELP_DESCRIPTION": "Ignore channels/commands when they are ran.",
+  "IGNORE_HELP_USAGE": [
+    "Adds/removes a channel to the ignored list.```/ignore channel <add/remove> <channel>```",
+    "Adds/removes a command to the ignored list.```/ignore command <add/remove> <command>```",
+    "Shows a list of currently ignored commands and channels.```/ignore show```"
+  ],
+  "IGNORE_CHANNEL_ADD_SUCCESS": "%s has been **added** to the ignored list.",
+  "IGNORE_CHANNEL_NOT_EXISTS": "Unable to find provided channel.",
+  "IGNORE_CHANNEL_ADD_EXISTS": "Channel %s is **already** in ignored list.",
+  "IGNORE_CHANNEL_REMOVE_SUCCESS": "Channel %s has been **removed** from ignore list.",
+  "IGNORE_cHANNEL_REMOVE_NOT_EXISTS": "Channel %s is **not** in ignored list.",
+  "IGNORE_COMMAND_ADD_SUCCESS": "Command `%s` has been **added** to ignore list.",
+  "IGNORE_COMMAND_NOT_EXISTS": "Command `%s` cannot be found.",
+  "IGNORE_COMMAND_INVALID": "Commands `help` and `ignore` cannot be added to ignore list.",
+  "IGNORE_COMMAND_ADD_EXISTS": "Command `%s` is **already** in ignored list.",
+  "IGNORE_COMMAND_REMOVE_SUCCESS": "Command `%s` has been **removed** from ignore list.",
+  "IGNORE_COMMAND_REMOVE_NOT_EXISTS": "Command `%s` is **not** in ignored list."
+}

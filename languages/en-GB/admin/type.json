@@ -1,0 +1,12 @@
+{
+  "TYPE_HELP_DESCRIPTION": "Change settings for where the announcements are sent.",
+  "TYPE_HELP_USAGE": [
+    "Set where announcement messages are sent.```/type set <default/dm//off/rewards>```",
+    "Direct announcements messages to a specific channel.```/type channel <channel>```"
+  ],
+  "TYPE_SUCCESS_CHANNEL": "Announcements channel has been set to **%s**.`",
+  "TYPE_SUCCESS_DEFAULT": "Announcements will now appear in the **channel the user levels up in**.",
+  "TYPE_SUCCESS_DM": "Announcements have been set to **dm**.",
+  "TYPE_SUCCESS_OFF": "Announcements have been set to **off**.",
+  "TYPE_SUCCESS_REWARD": "Announcements will only be sent on levels which **reward** members."
+}

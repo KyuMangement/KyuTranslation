@@ -1,0 +1,7 @@
+{
+  "TEST_HELP_DESCRIPTION": "Test custom announcements",
+  "TEST_HELP_USAGE": [
+    "Test custom announcements.```/test [level]```"
+  ],
+  "TEST_LEVEL_NOT_FOUND": "Unable to find an announcement embed for level `%s`."
+}

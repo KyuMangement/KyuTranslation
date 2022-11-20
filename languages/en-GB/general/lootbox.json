@@ -1,0 +1,15 @@
+{
+  "LOOTBOX_HELP_DESCRIPTION": "Open lootboxes to earn extra exp.",
+  "LOOTBOX_HELP_USAGE": [
+    "Open a lootbox to earn extra exp and other rewards.```/lootbox open```",
+    "Disable/enable ability for members to open lootboxes (Admins only).```/lootbox toggle```",
+    "Check your current statistics for lootboxes.```/lootbox stats```"
+  ],
+  "LOOTBOX_ENABLED": "Lootboxes have now been **enabled*** in this server.",
+  "LOOTBOX_DISABLED": "Lootboxes have now been **disabled** in this server.",
+  "LOOTBOX_SERVER_DISABLED": "Seems like lootboxes are disabled in this server <:KyuSad:948319004869668915>. Ask server admin to **enable lootboxes!!!**",
+  "LOOTBOX_MAX": "You have opened the maximum amount of lootboxes in this server for the week. You can open more lootboxes after %s.",
+  "LOOTBOX_NONE_LEFT": "Seems like you don't have any lootboxes left. Vote to earn more!",
+  "LOOTBOX_EXP": "Earned `%s` <:gweensparkles:933110632444723261> EXP from lootbox.",
+  "LOOTBOX_OPENED": "%sX lootbox opened!"
+}

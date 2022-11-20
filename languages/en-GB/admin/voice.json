@@ -1,0 +1,20 @@
+{
+  "VOICE_HELP_DESCRIPTION": "Change settings for voice exp.",
+  "VOICE_HELP_USAGE": [
+    "Blacklist a channel from gaining exp.```/voice blacklist channel <add/remove> <channel>```",
+    "Blacklist a role from gaining exp.```/voice blacklist role <add/remove> <role>```",
+    "Enable or disable voice exp.```/voice setting <enable/disable>```",
+    "Shows the voice leaderboard for the server.```/voice leaderboard```",
+    "Show a list of the currently blacklisted channels/roles.```/voice show```"
+  ],
+  "VOICE_ENABLED": "Voice exp has been **enabled**.",
+  "VOICE_DISABLED": "Voice exp has been **disabled**.",
+  "VOICE_CHANNEL_INCLUDED": "Channel %s is **already** blacklisted.",
+  "VOICE_CHANNEL_ADD_SUCCESS": "Channel %s has been **added** to blacklist.",
+  "VOICE_CHANNEL_REMOVE_SUCCESS": "Channel %s has been **removed** from blacklist.",
+  "VOICE_CHANNEL_NOT_INCLUDED": "Channel %s is **not** blacklisted.",
+  "VOICE_ROLE_INCLUDED": "Role %s is **already** blacklisted.",
+  "VOICE_ROLE_ADD_SUCCESS": "Role %s has been **added** to blacklist.",
+  "VOICE_ROLE_REMOVE_SUCCESS": "Role %s has been **removed** from blacklist.",
+  "VOICE_ROLE_NOT_INCLUDED": "Role %s is **not** blacklisted."
+}

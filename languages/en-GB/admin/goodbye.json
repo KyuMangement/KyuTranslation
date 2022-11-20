@@ -1,0 +1,28 @@
+{
+  "GOODBYE_HELP_DESCRIPTION": "Change settings for when users leave the guild.",
+  "GOODBYE_HELP_USAGE": [
+    "Change setting for exp to be cleared upon user leaving.```/goodbye clear <on/off>```"
+  ],
+  "GOODBYE_TYPE_SUCCESS": "Goodbye messages will now be sent to **%s**.",
+  "GOODBYE_TYPE_DISABLED": "Goodbye messages have been set to **off**.",
+  "GOODBYE_CLEAR_SUCCESS": "Member experience %s be cleared upon leaving the server.",
+  "GOODBYE_VARIABLES": "Sets a custom message for announcement messages.```/announce message custom <text>\n/announce message default```\n__Variables__\n`{user.ping}`: @KyuBot\n`{user.tag}`: KyuBot#9767\n`{user.name}`: KyuBot\n`{user.avatar}`: User Avatar\n`{user.id}`: 932319321559015526\n`{user.nick}`: User nickname\n`{user.exp}`: Member experience\n\n`{level}`: Obtained level\n`{level.previous}`: Previous level\n`{level.previous.exp}`: Previous level experience\n`{level.next}`: Next Level\n`{level.next.exp}`: Next level experience\n\n`{reward}`: Obtained role\n`{reward.role.name}`: Obtained role name\n`{reward.rolecount}`: Obtained role member count\n`{reward.rolecount.progess}`: Percentage of roles user has from all roles obtainable\n`{reward.previous}`: Previous role\n`{reward.next}`: Next role\n\n`{server.name}`: Server name\n`{server.id}`: Server ID\n`{server.icon}`: Server icon\n\n`{channel}`: Announcement channel\n`{channel.name}`: Announcement channel name\n`{channel.id}`: Announcement channel ID\n\n`{date}`: Current date (<t:%s:F>)",
+  "GOODBYE_MESSAGE_DEFAULT": "Goodbye message has been reset back to basic message.",
+  "GOODBYE_MESSAGE_TOO_LONG": "Max character count is 1250, you are over the count by **%s**.",
+  "GOODBYE_MESSAGE_SUCCESS": "Goodbye message has been updated to:```%s```",
+  "GOODBYE_PING_INCORRECT": "Enable/disable pings for goodbye messages.```/announce ping <on/off>```",
+  "GOODBYE_PING_SUCCESS": "Goodbye pings have been set to **%s**.",
+  "GOODBYE_TYPE_DEFAULT": "Goodbye will now appear in the **channel the user levels up in**.",
+  "GOODBYE_TYPE_DM": "Goodbye have been set to **dm**.",
+  "GOODBYE_TYPE_OFF": "Goodbye have been set to **off**.",
+  "GOODBYE_TYPE_REWARD": "Goodbye will only be sent on levels which **reward** members.",
+  "GOODBYE_TYPE_INVALID_CHANNEL": "Sets where goodbye messages are sent.```/announce type <default/dm/off/reward/#channel>```",
+  "GOODBYE_TYPE_CHANNEL_SUCCESS": "Goodbye channel has been set to **%s**.",
+  "GOODBYE_EMBED_TOGGLE": "Embeds have been **%s** for goodbye.",
+  "GOODBYE_EMBED_COLOR_INCORRECT": "Given color is not a valid hex color (#6CFFAC).",
+  "GOODBYE_EMBED_COLOR_SUCCESS": "Embed color for goodbye has been updated to **%s**.",
+  "GOODBYE_TITLE_TOO_LONG": "Max character count is 256 for title, you are over the count by **%s**.",
+  "GOODBYE_TITLE_SUCCESS": "Goodbye title has been updated to:```%s```",
+  "GOODBYE_IMAGE_INCORRECT": "Given link is not an image, please provide a valid image link. Image types currently supported: jpg|jpeg|png|gif.",
+  "GOODBYE_IMAGE_SUCCESS": "Goodbye embed image has been updated to %s\n\nBy continuing you understand the image you are uploading follows the **[Discord's Terms of Service](https://discord.com/terms)**. Anything that is uploaded is your responsibility and you will be held accountable for it."
+}
