@@ -1,0 +1,28 @@
+{
+  "GOODBYE_HELP_DESCRIPTION": "Modifier les paramètres quand les utilisateurs quittent la guilde.",
+  "GOODBYE_HELP_USAGE": [
+    "Changer le paramètre pour que l'exp soit effacé en cas de départ de l'utilisateur.```/adieu clear <on/off>```"
+  ],
+  "GOODBYE_TYPE_SUCCESS": "Les messages au revoir seront maintenant envoyés à **%s**.",
+  "GOODBYE_TYPE_DISABLED": "Les messages au revoir ont été mis à **off**.",
+  "GOODBYE_CLEAR_SUCCESS": "L'expérience du membre %s est effacée en quittant le serveur.",
+  "GOODBYE_VARIABLES": "Définit un message personnalisé pour les messages d'annonce.```/announce message custom <0>\n/announce message default```\n__Variables__\n`{user.ping}`: @KyuBot\n`{user.tag}`: KyuBot#9767\n`{user.name}`: KyuBot\n`{user.avatar}`: User Avatar\n`{user.id}`: 932319321559015526\n`{user.nick}`: User nickname\n`{user.exp}`: Member experience\n\n`{level}`: Obtained level\n`{level.previous}`: Previous level\n`{level.previous.exp}`: Previous level experience\n`{level.next}`: Next Level\n`{level.next.exp}`: Next level experience\n\n`{reward}`: Obtained role\n`{reward.role.name}`: Obtained role name\n`{reward.rolecount}`: Obtained role member count\n`{reward.rolecount.progess}`: Percentage of roles user has from all roles obtainable\n`{reward.previous}`: Previous role\n`{reward.next}`: Next role\n\n`{server.name}`: Server name\n`{server.id}`: Server ID\n`{server.icon}`: Server icon\n\n`{channel}`: Announcement channel\n`{channel.name}`: Announcement channel name\n`{channel.id}`: Announcement channel ID\n\n`{date}`: Current date (<1>)",
+  "GOODBYE_MESSAGE_DEFAULT": "Le message d'au revoir a été réinitialisé au message de base.",
+  "GOODBYE_MESSAGE_TOO_LONG": "Le nombre maximum de caractères est de 1250, vous avez dépassé le nombre de **%s**.",
+  "GOODBYE_MESSAGE_SUCCESS": "Le message d'au revoir a été mis à jour vers :```%s```",
+  "GOODBYE_PING_INCORRECT": "Activer/désactiver les pings pour les messages de adieu. ```/announce ping <on/off>```",
+  "GOODBYE_PING_SUCCESS": "Les pings au revoir ont été réglés à **%s**.",
+  "GOODBYE_TYPE_DEFAULT": "Au revoir va maintenant apparaître dans le **salon où l'utilisateur atteint son niveau**.",
+  "GOODBYE_TYPE_DM": "Au revoir a été défini à **dm**.",
+  "GOODBYE_TYPE_OFF": "Au revoir a été mis à **off**.",
+  "GOODBYE_TYPE_REWARD": "Au revoir ne sera envoyé que sur les niveaux que les membres **récompense**.",
+  "GOODBYE_TYPE_INVALID_CHANNEL": "Définit où les messages au revoir sont envoyés.```/announce type <default/dm/off/reward/#channel>```",
+  "GOODBYE_TYPE_CHANNEL_SUCCESS": "Le canal au revoir a été défini à **%s**.",
+  "GOODBYE_EMBED_TOGGLE": "Les embeds ont été **%s** pour au revoir.",
+  "GOODBYE_EMBED_COLOR_INCORRECT": "La couleur donnée n'est pas une couleur hexadécimale valide (#6CFFAC).",
+  "GOODBYE_EMBED_COLOR_SUCCESS": "La couleur d'intégration au revoir a été mise à jour vers **%s**.",
+  "GOODBYE_TITLE_TOO_LONG": "Le nombre maximum de caractères est de 256 pour le titre, vous avez dépassé le nombre de **%s**.",
+  "GOODBYE_TITLE_SUCCESS": "Le titre d'au revoir a été mis à jour vers :```%s```",
+  "GOODBYE_IMAGE_INCORRECT": "Le lien donné n'est pas une image, veuillez fournir un lien d'image valide. Types d'image actuellement pris en charge: jpg | jpeg | png | gif.",
+  "GOODBYE_IMAGE_SUCCESS": "L'image intégrée de l'annonce a été mise à jour vers %s\n\nEn continuant, vous comprenez que l'image que vous téléchargez suit les **[Conditions d'utilisation de Discord](https://discord.com/terms)**. Tout ce qui est téléchargé est de votre responsabilité et vous en serez tenu responsable."
+}

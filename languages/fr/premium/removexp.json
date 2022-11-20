@@ -1,0 +1,10 @@
+{
+  "REMOVEXP_HELP_DESCRIPTION": "Supprime un nombre d’Exp spécifique à un utilisateur.",
+  "REMOVEXP_HELP_USAGE": [
+    "Retirer une quantité spécifique d'exp d'un utilisateur.```/removexp <user> <exp>```"
+  ],
+  "REMOVEXP_USER_NOT_PREMIUM": "Cette fonctionnalité n'est disponible que pour les donateurs. Plus d'informations en utilisant `donate`",
+  "REMOVEXP_INPUT_TOO_HIGH": "Seules les Exp entre 1 et 20,000 peuvent être retirées à la fois. Veuillez changer le nombre d'Exp.",
+  "REMOVEXP_USER_NOT_FOUND": "Impossible de trouver l'utilisateur mentionné, assurez-vous que l'utilisateur fourni est dans la guilde.",
+  "REMOVEXP_SUCCESS": "**%s** Exp a été retiré de %s."
+}

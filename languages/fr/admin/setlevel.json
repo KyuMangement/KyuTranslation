@@ -1,0 +1,11 @@
+{
+  "SETLEVEL_HELP_DESCRIPTION": "Définissez le niveau ou le niveau d'un membre pour ceux qui ont un rôle spécifique.",
+  "SETLEVEL_HELP_USAGE": [
+    "Définissez le membre à un niveau spécifié.```/setlevel user <member> <level>```",
+    "Mettre à jour le niveau de tous les membres qui ont un rôle spécifique.```/setlevel role <member> <level>```"
+  ],
+  "SETLEVEL_INCORRECT": "Assurez-vous que le niveau que vous donnez est compris entre 0 et 100.",
+  "SETLEVEL_SUCCESS": "Le niveau du membre %s a été défini à `%s`.",
+  "SETLEVEL_NO_BOT": "Impossible de définir le niveau d'un utilisateur bot.",
+  "SETLEVEL_ROLE_SUCCESS": "Les niveaux ont été mis à jour pour %s membres."
+}

@@ -1,0 +1,15 @@
+{
+  "IMPORT_HELP_DESCRIPTION": "Importer des niveaux de différents autres bots dans Kyubot.",
+  "IMPORT_HELP_USAGE": [
+    "Importer des niveaux de différents autres bots dans Kyubot.```/import <AmariBot/Mee6/Tatsu>```"
+  ],
+  "IMPORT_NOT_FOUND_MEE6": "Impossible de trouver le classement. Veuillez visiter https://mee6.xyz/dashboard/${message.guild.id}/leaderboard et assurez-vous que votre classement est public.",
+  "IMPORT_NOT_FOUND": "Impossible de trouver le classement. Il semble que cette guilde n'ait aucun niveau dans %s.",
+  "IMPORT_IN_PROGRESS": "Les niveaux sont actuellement en cours d'importation depuis %s. Une fois importés, vous serez notifié.",
+  "IMPORT_TITLE": "Importation de niveaux!",
+  "IMPORT_DESCRIPTION": "En continuant, vous comprenez que **tous les niveaux de membres actuels seront supprimés**. Veuillez sélectionner continuer à importer tous les niveaux.",
+  "IMPORT_CANCELLED_TITLE": "Importation de niveau annulée !",
+  "IMPORT_CANCELLED_DESCRIPTION": "L'importation des niveaux a été annulée.",
+  "IMPORT_CONFIRMED_TITLE": "L'importation de niveau a commencé !",
+  "IMPORT_CONFIRMED_DESCRIPTION": "Les niveaux sont en cours d'importation depuis `%s`. Pendant que cela se produit, le leveling sera désactivé sur ce serveur. Vous serez averti lorsque les niveaux auront été importés dans %s."
+}

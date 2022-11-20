@@ -1,0 +1,9 @@
+{
+  "WELCOME_HELP_DESCRIPTION": "Modifier les paramètres pour quand les utilisateurs rejoignent le serveur.",
+  "WELCOME_HELP_USAGE": [
+    "Définissez un rôle pour les utilisateurs à gagner en joignant le serveur.```/welcome role <role>```",
+    "Désactiver les paramètres pour que les utilisateurs obtiennent un rôle en rejoignant le serveur.```/welcome disable```"
+  ],
+  "WELCOME_ENABLE": "Les utilisateurs vont maintenant obtenir le rôle %s en rejoignant le serveur.",
+  "WELCOME_DISABLE": "Les utilisateurs ne recevront plus de rôle lorsqu'ils rejoindront le serveur."
+}

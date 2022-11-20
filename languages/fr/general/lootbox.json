@@ -1,0 +1,15 @@
+{
+  "LOOTBOX_HELP_DESCRIPTION": "Ouvrez les lootbox pour gagner de l'expérience supplémentaire.",
+  "LOOTBOX_HELP_USAGE": [
+    "Ouvrez un lootbox pour gagner des Exp supplémentaires et d'autres récompenses.```/lootbox open```",
+    "Désactiver/activer la possibilité pour les membres d'ouvrir des lootbox (Admins seulement).```/lootbox toggle```",
+    "Vérifiez vos statistiques actuelles pour les lootboxes.```/lootbox stats```"
+  ],
+  "LOOTBOX_ENABLED": "Les Lootbox ont maintenant été **activés*** sur ce serveur.",
+  "LOOTBOX_DISABLED": "Les Lootbox ont été **désactivés** sur ce serveur.",
+  "LOOTBOX_SERVER_DISABLED": "On dirait que les lootbox sont désactivés sur ce serveur <:KyuSad:948319004869668915>. Demandez à l'administrateur du serveur d'**activer lootboxes!!!**",
+  "LOOTBOX_MAX": "Vous avez ouvert le nombre maximum de butins sur ce serveur pour la semaine. Vous pouvez ouvrir plus de butins après %s.",
+  "LOOTBOX_NONE_LEFT": "On dirait que vous n'avez plus de lootbox. Votez pour gagner plus!",
+  "LOOTBOX_EXP": "Gagné `%s` <:gweensparkles:933110632444723261> EXP à partir de lootbox.",
+  "LOOTBOX_OPENED": "%sX lootbox ouvert!"
+}

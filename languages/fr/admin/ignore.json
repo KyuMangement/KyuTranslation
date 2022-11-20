@@ -1,0 +1,19 @@
+{
+  "IGNORE_HELP_DESCRIPTION": "Ignorer les canaux/commandes lorsqu'elles sont exécutées.",
+  "IGNORE_HELP_USAGE": [
+    "Ajoute/supprime un canal à la liste ignorée.```/ignore channel <add/remove> <channel>```",
+    "Ajoute/supprime une commande à la liste ignorée.```/ignore command <add/remove> <command>```",
+    "Affiche une liste des commandes et salons actuellement ignorés.```/ignore show```"
+  ],
+  "IGNORE_CHANNEL_ADD_SUCCESS": "%s a été **ajouté** à la liste ignorée.",
+  "IGNORE_CHANNEL_NOT_EXISTS": "Impossible de trouver le canal fourni.",
+  "IGNORE_CHANNEL_ADD_EXISTS": "Le salon %s est **déjà** dans la liste ignorée.",
+  "IGNORE_CHANNEL_REMOVE_SUCCESS": "Le canal %s a été **supprimé** de la liste des ignorés.",
+  "IGNORE_cHANNEL_REMOVE_NOT_EXISTS": "Le canal %s n'est **pas** dans la liste ignorée.",
+  "IGNORE_COMMAND_ADD_SUCCESS": "La commande `%s` a été **ajoutée** à la liste des ignorés.",
+  "IGNORE_COMMAND_NOT_EXISTS": "La commande `%s` est introuvable.",
+  "IGNORE_COMMAND_INVALID": "Les commandes `help` et `ignore` ne peuvent pas être ajoutées à la liste des ignorés.",
+  "IGNORE_COMMAND_ADD_EXISTS": "La commande `%s` est **déjà** dans la liste ignorée.",
+  "IGNORE_COMMAND_REMOVE_SUCCESS": "La commande `%s` a été **supprimée** de la liste des ignorés.",
+  "IGNORE_COMMAND_REMOVE_NOT_EXISTS": "La commande `%s` n'est **pas** dans la liste ignorée."
+}

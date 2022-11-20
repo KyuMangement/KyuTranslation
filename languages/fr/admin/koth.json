@@ -1,0 +1,18 @@
+{
+  "KOTH_HELP_DESCRIPTION": "Un classement temporaire, qui permet au membre le plus haut de gagner différentes récompenses.",
+  "KOTH_HELP_USAGE": [
+    "Début de l'événement koth.```/koth <start/end> [channel]```",
+    "Définir une récompense pour le membre le plus haut du koth leaderbaord.```/koth récompense <role>```",
+    "Affiche le classement du koth pour le serveur.```/koth leaderboard```"
+  ],
+  "KOTH_ENABLE": "KOTH a commencé! Réclamez vos utilisateurs de couronne 👑!",
+  "KOTH_ENABLE_REWARD": "KOTH a été démarré! Le meilleur membre gagnera %s rôle.",
+  "KOTH_DISABLE": "KOTH est déjà désactivé.",
+  "KOTH_REWARD_ADD_SUCCESS": "Le gagnant de KOTH gagnera %s rôle à la réinitialisation de koth.",
+  "KOTH_WINNERS": "Vainqueurs KOTH",
+  "KOTH_STARTED": "KOTH démarré",
+  "KOTH_NO_WINNERS": "Pas assez d'utilisateurs actifs dans cette guilde pour mettre fin à KOTH.",
+  "KOTH_WINNERS_SENT": "L'annonce des gagnants de Koth a été envoyée à %s.",
+  "KOTH_START_SENT": "L'annonce de démarrage de KOTH a été envoyée à %s.",
+  "KOTH_DISABLED": "KOTH est actuellement désactivé dans cette guilde. Veuillez demander aux administrateurs d'activer KOTH."
+}

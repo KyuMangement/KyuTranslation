@@ -1,0 +1,22 @@
+{
+  "PROFILE_HELP_DESCRIPTION": "Changez l'apparence de votre carte de classement.",
+  "PROFILE_HELP_USAGE": [
+    "Changez la couleur de votre carte de classement.```/profile color <color>```",
+    "Changez l'opacité de votre carte de classement.```/profile opacity <0-100>```",
+    "Changez l'arrière-plan de votre carte de classement.```/profile background <url>```",
+    "Changez l'overlay pour votre carte de classement.```/profile opacity <url>```"
+  ],
+  "PROFILE_IS_NOT_COLOR": "La couleur %s n'est pas valide. Veuillez sélectionner une couleur parmi les couleurs suivantes : ```default\nblue\ngray\ngreen\norange\npink\npurple\nred\nteal\nyellow```",
+  "PROFILE_IS_NOT_HEX": "La couleur '%s' n'est pas une couleur hexadécimale. Assurez-vous que la couleur suit un format de couleur hexadécimal (#6cffac).",
+  "PROFILE_COLOR_SUCCESS": "La couleur du profil a été mise à jour à **%s**.",
+  "PROFILE_IMAGE_INVALID": "Le lien donné n'est pas une image, veuillez fournir un lien d'image valide.",
+  "PROFILE_DONATOR_ONLY": "Cette fonctionnalité est uniquement disponible pour les donateurs. Plus d'informations en utilisant `/donate`",
+  "PROFILE_BACKGROUND_DEFAULT_SUCCESS": "L'arrière-plan du profil a été remis à sa valeur par défaut.",
+  "PROFILE_BACKGROUND_SUCCESS": "L'arrière-plan a été téléchargé dans la base de données.",
+  "PROFILE_OVERLAY_DEFAULT_SUCCESS": "L'overlay du profil a été réinitialisé à la valeur par défaut.",
+  "PROFILE_OVERLAY_SUCCESS": "La superposition a été téléchargée dans la base de données.",
+  "PROFILE_DISCORD_TOS": "L'image intégrée de l'annonce a été mise à jour vers En continuant, vous comprenez que l'image que vous téléchargez suit les **[Conditions d'utilisation de Discord](https://discord.com/terms)**. Tout ce qui est téléchargé est de votre responsabilité et vous en serez tenu responsable.",
+  "PROFILE_NSFW_WARNING": "AVERTISSEMENT ! Les images NSFW peuvent entraîner un bannissement de notre bot.",
+  "PROFILE_OPACITY_TOO_HIGH": "Veuillez vous assurer que l'opacité est comprise entre 0 et 100.",
+  "PROFILE_OPACITY_SUCCESS": "L'opacité du profil a été définie à **%s%**."
+}

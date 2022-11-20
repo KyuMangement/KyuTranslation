@@ -1,0 +1,12 @@
+{
+  "TYPE_HELP_DESCRIPTION": "Modifier les paramètres de l'endroit où les annonces sont envoyées.",
+  "TYPE_HELP_USAGE": [
+    "Définir où les messages d'annonce sont envoyés.```/type set <default/dm//off/rewards>```",
+    "Messages d'annonces directs vers un canal spécifique.```/type channel <channel>```"
+  ],
+  "TYPE_SUCCESS_CHANNEL": "Le salon des annonces a été défini à **%s**.`",
+  "TYPE_SUCCESS_DEFAULT": "Les annonces apparaîtront maintenant dans le **canal où l'utilisateur atteint son niveau**.",
+  "TYPE_SUCCESS_DM": "Les annonces ont été définies à **dm**.",
+  "TYPE_SUCCESS_OFF": "Les annonces ont été réglées sur **off**.",
+  "TYPE_SUCCESS_REWARD": "Les annonces ne seront envoyées que sur les niveaux que les membres **récompense**."
+}

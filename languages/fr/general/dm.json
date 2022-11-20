@@ -1,0 +1,8 @@
+{
+  "DM_HELP_DESCRIPTION": "Activer/désactiver les dms de Kyubot pour les annonces sur tous les serveurs",
+  "DM_HELP_USAGE": [
+    "Activer/désactiver les dms de Kyubot pour les annonces dans tous les serveurs.```/dm <disable/enable>```"
+  ],
+  "DM_UPDATE_ENABLED": "Vous recevrez **maintenant des dms** lorsque vous passerez au niveau supérieur dans n'importe quelle guilde.",
+  "DM_UPDATE_DISABLED": "Vous ne recevrez plus de dms lorsque vous passerez au niveau supérieur dans aucune guilde."
+}

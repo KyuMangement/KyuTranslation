@@ -1,0 +1,7 @@
+{
+  "TEST_HELP_DESCRIPTION": "Tester les annonces personnalisées",
+  "TEST_HELP_USAGE": [
+    "Testez les annonces personnalisées.```/test [level]```"
+  ],
+  "TEST_LEVEL_NOT_FOUND": "Impossible de trouver une annonce intégrée pour le niveau `%s`."
+}

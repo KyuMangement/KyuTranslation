@@ -1,0 +1,15 @@
+{
+  "ANNOUNCE_HELP_DESCRIPTION": "Modifier les paramètres pour les messages d'annonce de niveau supérieur.",
+  "ANNOUNCE_HELP_USAGE": [
+    "Changez le message personnalisé ou trouvez plus d'informations.```/announce message custom <text>\n/announce message default\n/announce message variables```",
+    "Activer/désactiver les pings pour les messages d'annonce.```/announce ping <setting>```",
+    "Teste le message d'annonce actuel.```/announce test```"
+  ],
+  "ANNOUNCE_MESSAGE_TOO_LONG": "Le nombre maximum de caractères est de 1250, vous avez dépassé le nombre de **%s**.",
+  "ANNOUNCE_MESSAGE_SUCCESS": "Le message d'annonce a été mis à jour vers :```%s```",
+  "ANNOUNCE_MESSAGE_DEFAULT": "Le message d'annonce a été réinitialisé au message de base.",
+  "ANNOUNCE_PING_INCORRECT": "Activer/désactiver les pings pour les messages d'annonce.```/announce ping <on/off>```",
+  "ANNOUNCE_VARIABLES": "Définit un message personnalisé pour les messages d'annonce.```/announce message custom <text>\n/announce message default```\n__Variables__\n`{user.ping}`: @KyuBot\n`{user.tag}`: KyuBot#9767\n`{user.name}`: KyuBot\n`{user.avatar}`: User Avatar\n`{user.id}`: 932319321559015526\n`{user.nick}`: User nickname\n`{user.exp}`: Member experience\n\n`{level}`: Obtained level\n`{level.previous}`: Previous level\n`{level.previous.exp}`: Previous level experience\n`{level.next}`: Next Level\n`{level.next.exp}`: Next level experience\n\n`{reward}`: Obtained role\n`{reward.role.name}`: Obtained role name\n`{reward.rolecount}`: Obtained role member count\n`{reward.rolecount.progess}`: Percentage of roles user has from all roles obtainable\n`{reward.previous}`: Previous role\n`{reward.next}`: Next role\n\n`{server.name}`: Server name\n`{server.id}`: Server ID\n`{server.icon}`: Server icon\n\n`{channel}`: Announcement channel\n`{channel.name}`: Announcement channel name\n`{channel.id}`: Announcement channel ID\n\n`{date}`: Current date (<t:%s:F>)",
+  "ANNOUNCE_PING_SUCCESS_ENABLED": "Les pings d'annonces ont été réglés sur **activé**.",
+  "ANNOUNCE_PING_SUCCESS_DISABLED": "Les pings d'annonces ont été réglés sur **désactivé**."
+}
