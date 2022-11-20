@@ -1,0 +1,7 @@
+{
+  "TEST_HELP_DESCRIPTION": "Teste Level-Up Nachrichten",
+  "TEST_HELP_USAGE": [
+    "Teste Level-Up Nachrichten.```/test [level]```"
+  ],
+  "TEST_LEVEL_NOT_FOUND": "Es kann keine eingebettete Level-Up Nachricht für Level `%s` gefunden werden."
+}

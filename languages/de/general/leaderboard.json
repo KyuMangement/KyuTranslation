@@ -1,0 +1,8 @@
+{
+  "LEADERBOARD_HELP_DESCRIPTION": "Zeigt die verschiedenen Bestenlisten für den Server an.",
+  "LEADERBOARD_HELP_USAGE": [
+    "Zeigt die Bestenliste für den Server.```/leaderboard normal\n/leaderboard koth\n/leaderboard voice```"
+  ],
+  "LEADERBOARD_KOTH_DISABLED": "KOTH ist derzeit auf diesem Server deaktiviert. Bitte die Admins KOTH zu aktivieren.",
+  "LEADERBOARD_VOICE_DISABLED": "Voice Exp ist derzeit auf diesem Server deaktiviert. Bitte die Admins Voice Exp zu aktivieren."
+}

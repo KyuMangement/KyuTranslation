@@ -1,0 +1,15 @@
+{
+  "REWARDS_HELP_DESCRIPTION": "Ändere die Einstellungen für Belohnungen, die du beim Levelaufstieg erhältst.",
+  "REWARDS_HELP_USAGE": [
+    "Lege die Rolle fest, die vergeben wird, wenn ein Mitglied das angegebene Level erreicht.```/rewards add <level> <role>```",
+    "Entfernt die Rolle, die auf einem bestimmten Level vergeben wird.```/rewards remove <level>```",
+    "Lege fest, ob Rollen gestapelt oder ersetzt werden, nachdem Mitglieder eine neue Rolle erhalten haben.```/rewards stack <enable/disable>```",
+    "Zeigt alle Rollen an, die auf Level gesetzt sind.```/rewards show```"
+  ],
+  "REWARDS_SUCCESS": "Mitglieder erhalten jetzt die Rolle %s auf Level`%s`.",
+  "REWARDS_NOT_EXISTS": "Es kann keine Belohnung für Level %s gefunden werden.",
+  "REWARDS_REMOVED": "Mitglieder erhalten keine Rolle mehr auf Level `%s`.",
+  "REWARDS_STACK": "Die Rollen werden nun gestapelt.",
+  "REWARDS_REPLACE": "Rollen werden nun ersetzt.",
+  "REWARDS_LIMIT": "Es wurden zu viele Rollen eingerichtet. Derzeit können nur 30 Rollenbelohnungen eingerichtet werden."
+}

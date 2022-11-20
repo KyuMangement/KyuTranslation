@@ -1,0 +1,33 @@
+{
+  "EMBED_HELP_DESCRIPTION": "Ändere die Einstellungen für Level-Up Nachrichten.",
+  "EMBED_HELP_USAGE": [
+    "Legt fest, ob Level-Up Nachrichten mit oder ohne Einbettung gesendet werden.```/embed toggle <disable/enable> [level]```",
+    "Erwähnungen für Level-Up Nachrichten aktivieren/deaktivieren.```/embed ping disable/enable> [level]```",
+    "Passe die verschiedene Abschnitte der Einbettung an.```/embed customise title <input> [level]\n/embed customise description <input> [level]\n/embed customise image <input> [level]\n/embed customise color <input> [level]```",
+    "Füge eine Einbettung für ein bestimmtes Level hinzu.```/embed add <level>```",
+    "Entferne eine Einbettung für ein bestimmtes Level.```/embed remove <level>```",
+    "Teste die aktuelle Level-Up Nachricht.```/embed test [level]```",
+    "Erhalte eine Liste aller verfügbaren Variablen für KyuBot.```/embed variables```"
+  ],
+  "EMBED_TOGGLE_ENABLED": "Einbettungen wurden für Level-Up Nachrichten **aktiviert**.",
+  "EMBED_TOGGLE_DISABLED": "Einbettungen wurden für Level-Up Nachrichten **deaktiviert**.",
+  "EMBED_PING_ENABLED": "Erwähnungen wurden für Level-Up Nachrichten **aktiviert**.",
+  "EMBED_PING_DISABLED": "Erwähnungen wurden für Level-Up Nachrichten **deaktiviert**.",
+  "EMBED_TITLE_TOO_LONG": "Die maximale Zeichenanzahl für den Titel beträgt 100, Du hast die Anzahl um **%s** überschritten.",
+  "EMBED_TITLE_UPDATED": "Der Titel der Level-Up Nachricht wurde aktualisiert auf:```%s```",
+  "EMBED_DESCRIPTION_TOO_LONG": "Die maximale Zeichenanzahl beträgt 1250, Du hast die Anzahl um **%s** überschritten.",
+  "EMBED_DESCRIPTION_UPDATED": "Level-Up Nachricht wurde geändert zu:```%s```",
+  "EMBED_IMAGE_INVALID": "Der angegebene Link ist kein Bild, bitte gib einen gültigen Bildlink an. Diese Bildtypen werden derzeit unterstützt: jpg | jpeg | png | gif.",
+  "EMBED_IMAGE_UPDATED": "Das eingebettete Bild der Ankündigung wurde aktualisiert auf zu %s\n\nWenn Du fortfährst, erklärst Du dich damit einverstanden, dass das von Dir hochgeladene Bild den **[Nutzungsbedingungen von Discord](https://discord.com/terms)** entspricht. Alles, was hochgeladen wird, liegt in Deiner Verantwortung und Du werden dafür zur Verantwortung gezogen.",
+  "EMBED_COLOR_INVALID": "Farbe %s ist keine gültige Farbe. Bitte wähle eine Farbe aus einer der folgenden Farben aus:```default\nblue\ngray\ngreen\norange\npink\npurple\nred\nteal\nyellow```",
+  "EMBED_COLOR_UPDATED": "Die Farbe der Einbettung für die Level-Up Nachricht wurde auf **%s** aktualisiert.",
+  "EMBED_CUSTOMISE_INVALID_SECTION": "%s kann nicht bearbeitet werden, aktuelle Abschnitte, die bearbeitet werden können, sind: `Titel, Beschreibung, Bild, Farbe`.",
+  "EMBED_CUSTOMISE_ADD_INVALID_LEVEL": "Die Level-Up Nachricht für Level %s kann nicht eingestellt werden. Bitte stelle sicher, dass das Level eine ganze Zahl ist.",
+  "EMBED_CUSTOMISE_ADD_ALREADY_EXISTS": "Eine Level-Up Nachricht für Level %s existiert bereits. Bitte entferne/bearbeite die aktuelle Einbettung.",
+  "EMBED_CUSTOMISE_ADD_MAX_REACHED": "Du hast die maximale Anzahl von 10 benutzerdefinierten Einbettungen erreicht. Bitte lösche eine Einbettung, bevor Du eine neue Einbettung für Level %s hinzufügst",
+  "EMBED_CUSTOMISE_ADD_SUCCESS": "Level-Up Nachricht wurde für Level %s hinzugefügt.",
+  "EMBED_CUSTOMISE_REMOVE_INVALID_LEVEL": "Es existiert keine Level-Up Nachricht für Level %s.",
+  "EMBED_CUSTOMISE_REMOVE_NOT_EXISTS": "Es existiert keine Level-Up Nachricht für Level %s.",
+  "EMBED_CUSTOMISE_REMOVE_SUCCESS": "Level-Up Nachricht wurde von Level %s entfernt.",
+  "EMBED_NOT_FOUND": "Einbettung für Level %s konnte nicht gefunden werden."
+}

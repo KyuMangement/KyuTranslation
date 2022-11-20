@@ -1,0 +1,20 @@
+{
+  "VOICE_HELP_DESCRIPTION": "Einstellungen für Sprach-Exp ändern.",
+  "VOICE_HELP_USAGE": [
+    "Einen Sprach-Kanal auf die Blacklist setzen, um keine Exp zu erhalten.```/voice blacklist channel <add/remove> <channel>```",
+    "Eine Rolle auf die Blacklist setzen, um keine Exp zu erhalten.```/voice blacklist role <add/remove> <role>```",
+    "Aktiviere oder deaktiviere Sprach-Exp.```/voice setting <enable/disable>```",
+    "Zeigt die Sprach-Rangliste für den Server an.```/voice leaderboard```",
+    "Zeigt eine Liste der aktuell auf der Blacklist stehenden Kanäle/Rollen an.```/voice show```"
+  ],
+  "VOICE_ENABLED": "Sprach-Exp wurde **aktiviert**.",
+  "VOICE_DISABLED": "Sprach-Exp wurde **deaktiviert**.",
+  "VOICE_CHANNEL_INCLUDED": "Kanal %s **ist bereits** auf der schwarzen Liste.",
+  "VOICE_CHANNEL_ADD_SUCCESS": "Kanal %s wurde zur Blacklist **hinzugefügt**.",
+  "VOICE_CHANNEL_REMOVE_SUCCESS": "Kanal %s wurde aus der Blacklist **entfernt**.",
+  "VOICE_CHANNEL_NOT_INCLUDED": "Kanal %s ist **nicht** auf der Blacklist.",
+  "VOICE_ROLE_INCLUDED": "Rolle %s **ist bereits** auf der Blacklist.",
+  "VOICE_ROLE_ADD_SUCCESS": "Rolle %s wurde zur Blacklist **hinzugefügt**.",
+  "VOICE_ROLE_REMOVE_SUCCESS": "Rolle %s wurde aus der Blacklist **entfernt**.",
+  "VOICE_ROLE_NOT_INCLUDED": "Rolle %s ist **nicht** auf der Blacklist."
+}

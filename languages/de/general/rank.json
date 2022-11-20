@@ -1,0 +1,8 @@
+{
+  "RANK_HELP_DESCRIPTION": "Überprüfe Deinen Rang oder den Rang eines anderen Mitglieds",
+  "RANK_HELP_USAGE": [
+    "Überprüfe Deinen Rang oder den Rang eines anderen Mitglieds.```/rank [member] [normal/voice]```"
+  ],
+  "RANK_VOTE": "Stimme ab für einen 15% Boost",
+  "RANK_IS_BOT": "Der Rang eines Bots kann nicht überprüft werden."
+}

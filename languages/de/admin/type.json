@@ -1,0 +1,12 @@
+{
+  "TYPE_HELP_DESCRIPTION": "Ändere die Einstellungen, wohin die Level-Up Nachrichten gesendet werden.",
+  "TYPE_HELP_USAGE": [
+    "Lege fest, wohin Level-Up Nachrichten gesendet werden.```/type set <default/dm//off/rewards>```",
+    "Sende Level-Up Nachrichten an einen bestimmten Kanal.```/type channel <channel>```"
+  ],
+  "TYPE_SUCCESS_CHANNEL": "Der Level-Up Kanal wurde auf **%s** eingestellt.`",
+  "TYPE_SUCCESS_DEFAULT": "Die Level-Up Nachricht erscheint jetzt im **Kanal, in dem der Benutzer aufsteigt**.",
+  "TYPE_SUCCESS_DM": "Level-Up Nachrichten werden nun als **Direktnachricht** gesendet.",
+  "TYPE_SUCCESS_OFF": "Level-Up Nachrichten wurden auf **aus** gestellt.",
+  "TYPE_SUCCESS_REWARD": "Level-Up Nachrichten werden nur auf Level gesendet, die Mitglieder **belohnen**."
+}

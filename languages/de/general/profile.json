@@ -1,0 +1,22 @@
+{
+  "PROFILE_HELP_DESCRIPTION": "Ändere das Aussehen deiner Rangkarte.",
+  "PROFILE_HELP_USAGE": [
+    "Ändere die Farbe deiner Rangkarte.```/profile color <color>```",
+    "Ändere die Transparenz für deine Rangkarte.```/profile opacity <0-100>```",
+    "Ändere den Hintergrund Deiner Rangkarte.```/profile background <url>```",
+    "Ändere das Overlay für Deine Rangkarte.```/profile opacity <url>```"
+  ],
+  "PROFILE_IS_NOT_COLOR": "Die angegebene Farbe '%s' kann nicht gefunden werden. Bitte wähle eine Farbe aus einer der folgenden Farben aus: ```default\nblue\ngray\ngreen\norange\npink\npurple\nred\nteal\nyellow```",
+  "PROFILE_IS_NOT_HEX": "Farbe '%s' ist keine Hexadezimalfarbe. Bitte stelle sicher, dass die Farbe einem hexadezimalen Farbformat (#6cffac) folgt.",
+  "PROFILE_COLOR_SUCCESS": "Die Profilfarbe wurde zu **%s** geändert.",
+  "PROFILE_IMAGE_INVALID": "Der angegebene Link ist kein Bild, bitte gebe einen gültigen Bildlink an.",
+  "PROFILE_DONATOR_ONLY": "Diese Funktion ist nur mit Premium verfügbar. Weitere Informationen findest Du mit `/donate`",
+  "PROFILE_BACKGROUND_DEFAULT_SUCCESS": "Der Profilhintergrund wurde zurückgesetzt.",
+  "PROFILE_BACKGROUND_SUCCESS": "Der Hintergrund wurde in die Datenbank hochgeladen.",
+  "PROFILE_OVERLAY_DEFAULT_SUCCESS": "Das Profil Overlay wurde zurückgesetzt.",
+  "PROFILE_OVERLAY_SUCCESS": "Das Overlay wurde in die Datenbank hochgeladen.",
+  "PROFILE_DISCORD_TOS": "Wenn Du fortfährst verstehst Du, dass das Bild welches Du hochlädst, den **[Discord's Terms of Service](https://discord. om/terms)** folgt. Alles, was hochgeladen wird, liegt in Deiner Verantwortung und Du wirst dafür zur Verantwortung gezogen.",
+  "PROFILE_NSFW_WARNING": "WARNUNG! NSFW-Bilder können zu einem Bann von unserem Bot führen.",
+  "PROFILE_OPACITY_TOO_HIGH": "Bitte stelle sicher, dass die Transparenz zwischen 0 und 100 liegt.",
+  "PROFILE_OPACITY_SUCCESS": "Profiltransparenz wurde auf **%s %** gesetzt."
+}
