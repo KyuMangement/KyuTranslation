@@ -1,15 +1,15 @@
 {
-  "REWARDS_HELP_DESCRIPTION": "Modifier les paramètres pour les récompenses gagnées lors du niveau vers le haut.",
-  "REWARDS_HELP_USAGE": [
+  "helpDescription": "Modifier les paramètres pour les récompenses gagnées lors du niveau vers le haut.",
+  "helpUsage": [
     "Définir le rôle à donner lorsqu'un membre atteint le niveau spécifié.```/rewards add <level> <role>```",
     "Retirer le rôle d'un niveau spécifié.```/rewards remove <level>```",
     "Définissez les rôles à empiler ou à remplacer après avoir gagné un nouveau rôle.```/rewards stack <enable/disable>```",
     "Affiche tous les rôles définis en niveaux.```/rewards show```"
   ],
-  "REWARDS_SUCCESS": "Les membres gagneront maintenant le rôle %s au niveau `%s`.",
-  "REWARDS_NOT_EXISTS": "Impossible de trouver une récompense pour le niveau %s.",
-  "REWARDS_REMOVED": "Les membres ne gagneront plus de rôle au niveau `%s`.",
-  "REWARDS_STACK": "Les rôles seront maintenant empilés.",
-  "REWARDS_REPLACE": "Les rôles vont maintenant être remplacés.",
-  "REWARDS_LIMIT": "Trop de rôles ont été configurés. Actuellement, seulement 30 récompenses de rôle peuvent être installées."
+  "success": "Les membres gagneront maintenant le rôle %s au niveau `%s`.",
+  "notExists": "Impossible de trouver une récompense pour le niveau %s.",
+  "removed": "Les membres ne gagneront plus de rôle au niveau `%s`.",
+  "stack": "Les rôles seront maintenant empilés.",
+  "replace": "Les rôles vont maintenant être remplacés.",
+  "limit": "Trop de rôles ont été configurés. Actuellement, seulement 30 récompenses de rôle peuvent être installées."
 }

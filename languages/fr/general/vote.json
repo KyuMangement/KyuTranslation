@@ -1,7 +1,7 @@
 {
-  "VOTE_HELP_DESCRIPTION": "Obtenir un lien pour voter pour KyuBot",
-  "VOTE_HELP_USAGE": [
+  "helpDescription": "Obtenir un lien pour voter pour KyuBot",
+  "helpUsage": [
     "Obtenez un lien pour voter pour KyuBot.```/vote```"
   ],
-  "VOTE_MESSAGE": "<:gweensparkles:933110632444723261> **15%** EXP Booster\n:tickets: Lootbox `1x`"
+  "message": "<:gweensparkles:933110632444723261> **15%** EXP Booster\n:tickets: Lootbox `1x`"
 }

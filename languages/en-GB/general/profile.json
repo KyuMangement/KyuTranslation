@@ -1,22 +1,22 @@
 {
-  "PROFILE_HELP_DESCRIPTION": "Change your rank card appearance.",
-  "PROFILE_HELP_USAGE": [
+  "helpDescription": "Change your rank card appearance.",
+  "helpUsage": [
     "Change the color for your rank card.```/profile color <color>```",
     "Change the opacity for your rank card.```/profile opacity <0-100>```",
     "Change the background for your rank card.```/profile background <url>```",
     "Change the overlay for your rank card.```/profile opacity <url>```"
   ],
-  "PROFILE_IS_NOT_COLOR": "Unable to find the given color '%s'. Please select a color from one of the following colors:```default\nblue\ngray\ngreen\norange\npink\npurple\nred\nteal\nyellow```",
-  "PROFILE_IS_NOT_HEX": "Color '%s' is not a hex color. Please make sure the color follows a hex color format (#6cffac).",
-  "PROFILE_COLOR_SUCCESS": "Profile color has been updated to **%s**.",
-  "PROFILE_IMAGE_INVALID": "Given link is not an image, please provide a valid image link.",
-  "PROFILE_DONATOR_ONLY": "This feature is only available for donator. Find out more information using `/donate`",
-  "PROFILE_BACKGROUND_DEFAULT_SUCCESS": "Profile background has been set back to default.",
-  "PROFILE_BACKGROUND_SUCCESS": "Background has been uploaded to the database.",
-  "PROFILE_OVERLAY_DEFAULT_SUCCESS": "Profile overlay has been set back to default.",
-  "PROFILE_OVERLAY_SUCCESS": "Overlay has been uploaded to the database.",
-  "PROFILE_DISCORD_TOS": "By continuing you understand the image you are uploading follows the **[Discord's Terms of Service](https://discord.com/terms)**. Anything that is uploaded is your responsibility and you will be held accountable for it.",
-  "PROFILE_NSFW_WARNING": "WARNING! NSFW images can result in a ban from our bot.",
-  "PROFILE_OPACITY_TOO_HIGH": "Please make sure the opacity is between 0 and 100.",
-  "PROFILE_OPACITY_SUCCESS": "Profile opacity has been set to **%s%**."
+  "isNotColor": "Unable to find the given color '%s'. Please select a color from one of the following colors:```default\nblue\ngray\ngreen\norange\npink\npurple\nred\nteal\nyellow```",
+  "isNotHex": "Color '%s' is not a hex color. Please make sure the color follows a hex color format (#6cffac).",
+  "colorSuccess": "Profile color has been updated to **%s**.",
+  "imageInvalid": "Given link is not an image, please provide a valid image link.",
+  "donatorOnly": "This feature is only available for donator. Find out more information using `/donate`",
+  "backgroundDefaultSuccess": "Profile background has been set back to default.",
+  "backgroundSuccess": "Background has been uploaded to the database.",
+  "overlayDefaultSuccess": "Profile overlay has been set back to default.",
+  "overlaySuccess": "Overlay has been uploaded to the database.",
+  "discordTos": "By continuing you understand the image you are uploading follows the **[Discord's Terms of Service](https://discord.com/terms)**. Anything that is uploaded is your responsibility and you will be held accountable for it.",
+  "nsfwWarning": "WARNING! NSFW images can result in a ban from our bot.",
+  "opacityTooHigh": "Please make sure the opacity is between 0 and 100.",
+  "opacitySuccess": "Profile opacity has been set to **%s%**."
 }

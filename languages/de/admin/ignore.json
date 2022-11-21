@@ -1,19 +1,19 @@
 {
-  "IGNORE_HELP_DESCRIPTION": "Kanäle/Befehle ignorieren, wenn sie ausgeführt werden.",
-  "IGNORE_HELP_USAGE": [
+  "helpDescription": "Kanäle/Befehle ignorieren, wenn sie ausgeführt werden.",
+  "helpUsage": [
     "Fügt einen Kanal zur ignorierten Liste hinzu/entfernt ihn.```/ignore channel <add/remove> <channel>```",
     "Fügt einen Befehl zur ignorierten Liste hinzu/entfernt ihn.```/ignore command <add/remove> <command>```",
     "Zeigt eine Liste der derzeit ignorierten Befehle und Kanäle.```/ignore show```"
   ],
-  "IGNORE_CHANNEL_ADD_SUCCESS": "%s wurde zur Ignoriert-Liste **hinzugefügt**.",
-  "IGNORE_CHANNEL_NOT_EXISTS": "Der Kanal kann nicht gefunden werden.",
-  "IGNORE_CHANNEL_ADD_EXISTS": "Kanal %s **ist bereits** auf der Ignoriert-Liste.",
-  "IGNORE_CHANNEL_REMOVE_SUCCESS": "Kanal %s wurde aus der Ignoriert-Liste **entfernt**.",
-  "IGNORE_cHANNEL_REMOVE_NOT_EXISTS": "Kanal %s ist **nicht** in der Ignoriert-Liste.",
-  "IGNORE_COMMAND_ADD_SUCCESS": "Befehl `%s` wurde zur Ignoriert-Liste **hinzugefügt**.",
-  "IGNORE_COMMAND_NOT_EXISTS": "Befehl `%s` kann nicht gefunden werden.",
-  "IGNORE_COMMAND_INVALID": "Die Befehle „help“ und „ignore“ können nicht zur Ignoriert-Liste hinzugefügt werden.",
-  "IGNORE_COMMAND_ADD_EXISTS": "Befehl `%s` **ist bereits** in der Ignoriert-Liste.",
-  "IGNORE_COMMAND_REMOVE_SUCCESS": "Befehl `%s` wurde aus der Ignoriert-Liste **entfernt**.",
-  "IGNORE_COMMAND_REMOVE_NOT_EXISTS": "Befehl `%s` ist **nicht** auf der Ignoriert-Liste."
+  "channelAddSuccess": "%s wurde zur Ignoriert-Liste **hinzugefügt**.",
+  "channelNotExists": "Der Kanal kann nicht gefunden werden.",
+  "channelAddExists": "Kanal %s **ist bereits** auf der Ignoriert-Liste.",
+  "channelRemoveSuccess": "Kanal %s wurde aus der Ignoriert-Liste **entfernt**.",
+  "channelRemoveNotExists": "Kanal %s ist **nicht** in der Ignoriert-Liste.",
+  "commandAddSuccess": "Befehl `%s` wurde zur Ignoriert-Liste **hinzugefügt**.",
+  "commandNotExists": "Befehl `%s` kann nicht gefunden werden.",
+  "commandInvalid": "Die Befehle „help“ und „ignore“ können nicht zur Ignoriert-Liste hinzugefügt werden.",
+  "commandAddExists": "Befehl `%s` **ist bereits** in der Ignoriert-Liste.",
+  "commandRemoveSuccess": "Befehl `%s` wurde aus der Ignoriert-Liste **entfernt**.",
+  "commandRemoveNotExists": "Befehl `%s` ist **nicht** auf der Ignoriert-Liste."
 }

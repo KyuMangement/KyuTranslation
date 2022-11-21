@@ -1,9 +1,9 @@
 {
-  "WELCOME_HELP_DESCRIPTION": "Change settings for when users joins the server.",
-  "WELCOME_HELP_USAGE": [
+  "helpDescription": "Change settings for when users joins the server.",
+  "helpUsage": [
     "Set a role for users to gain upon joinging the server.```/welcome role <role>```",
     "Disable settings for users to gain a role upon joining.```/welcome disable```"
   ],
-  "WELCOME_ENABLE": "Users will now get the role %s upon joining the server.",
-  "WELCOME_DISABLE": "Users will no longer get a role upon joining the server."
+  "enable": "Users will now get the role %s upon joining the server.",
+  "disable": "Users will no longer get a role upon joining the server."
 }

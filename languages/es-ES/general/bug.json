@@ -1,7 +1,7 @@
 {
-  "BUG_HELP_DESCRIPTION": "Informar un error a los desarrolladores",
-  "BUG_HELP_USAGE": [
+  "helpDescription": "Informar un error a los desarrolladores",
+  "helpUsage": [
     "Informe un error a los desarrolladores."
   ],
-  "BUG_SUCCESS": "Gracias por enviar un error.¡Nuestro equipo analizará esto lo antes posible!"
+  "success": "Gracias por enviar un error.¡Nuestro equipo analizará esto lo antes posible!"
 }

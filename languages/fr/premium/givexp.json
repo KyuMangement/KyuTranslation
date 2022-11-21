@@ -1,10 +1,10 @@
 {
-  "GIVEXP_HELP_DESCRIPTION": "Récompensez les utilisateurs avec un montant d'expérience spécifique.",
-  "GIVEXP_HELP_USAGE": [
+  "helpDescription": "Récompensez les utilisateurs avec un montant d'expérience spécifique.",
+  "helpUsage": [
     "Récompensez les utilisateurs avec un montant spécifique de exp.```/givexp <user> <exp>```"
   ],
-  "GIVEXP_USER_NOT_PREMIUM": "Cette fonctionnalité n'est disponible que pour les donateurs. Plus d'informations en utilisant `donate`",
-  "GIVEXP_INPUT_TOO_HIGH": "Seul le nombre d'Exp entre 1 et 20,000 peut être donné à la fois. Veuillez changer le nombre d'Exp.",
-  "GIVEXP_USER_NOT_FOUND": "Impossible de trouver l'utilisateur mentionné, assurez-vous que l'utilisateur fourni est dans la guilde.",
-  "GIVEXP_SUCCESS": "%s a été donné **%s** exp."
+  "userNotPremium": "Cette fonctionnalité n'est disponible que pour les donateurs. Plus d'informations en utilisant `donate`",
+  "inputTooHigh": "Seul le nombre d'Exp entre 1 et 20,000 peut être donné à la fois. Veuillez changer le nombre d'Exp.",
+  "userNotFound": "Impossible de trouver l'utilisateur mentionné, assurez-vous que l'utilisateur fourni est dans la guilde.",
+  "success": "%s a été donné **%s** exp."
 }

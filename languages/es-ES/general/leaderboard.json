@@ -1,8 +1,8 @@
 {
-  "LEADERBOARD_HELP_DESCRIPTION": "Muestra las diferentes tablas de clasificación para el servidor.",
-  "LEADERBOARD_HELP_USAGE": [
+  "helpDescription": "Muestra las diferentes tablas de clasificación para el servidor.",
+  "helpUsage": [
     "Muestra la tabla de clasificación para el servidor.\n/tabla de clasificación koth\n/Voz de la tabla de clasificación`````````"
   ],
-  "LEADERBOARD_KOTH_DISABLED": "Koth está actualmente deshabilitado en este gremio.Por favor solicite a los administradores que habiliten a Koth.",
-  "LEADERBOARD_VOICE_DISABLED": "Voice Exp está actualmente deshabilitado en este gremio.Por favor solicite a los administradores que habiliten Voice Exp."
+  "kothDisabled": "Koth está actualmente deshabilitado en este gremio.Por favor solicite a los administradores que habiliten a Koth.",
+  "voiceDisabled": "Voice Exp está actualmente deshabilitado en este gremio.Por favor solicite a los administradores que habiliten Voice Exp."
 }

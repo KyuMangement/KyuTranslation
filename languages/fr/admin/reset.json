@@ -1,17 +1,17 @@
 {
-  "RESET_HELP_DESCRIPTION": "Réinitialiser les paramètres ou utilisateurs spécifiques pour le serveur actuel.",
-  "RESET_HELP_USAGE": [
+  "helpDescription": "Réinitialiser les paramètres ou utilisateurs spécifiques pour le serveur actuel.",
+  "helpUsage": [
     "Réinitialiser les paramètres spécifiques pour le serveur actuel.```/reset user <member>```",
     "Réinitialiser un paramètre spécifique.```/reset settings <option>```"
   ],
-  "RESET_SETTINGS_QUESTION": "Êtes-vous sûr de vouloir supprimer **TOUS** les paramètres** ?",
-  "RESET_POINTS_QUESTION": "Êtes-vous sûr de vouloir supprimer **tous les points** ?",
-  "RESET_QUESTION": "Êtes-vous sûr de vouloir supprimer les paramètres de **%s** ?",
-  "RESET_FOOTER": "AVERTISSEMENT ! La réinitialisation n'est pas réversible.",
-  "RESET_POINTS_SUCCESS": "**Points** pour tous les membres ont été réinitialisés.",
-  "RESET_SETTINGS_SUCCESS": "**%s** Les paramètres ont été réinitialisés",
-  "RESET_SUCCESS": "La réinitialisation des paramètres de **%s** a été annulée.",
-  "RESET_USER_NOT_FOUND": "Veuillez entrer un utilisateur valide.",
-  "RESET_USER_SUCCESS": "Le membre %s Exp a été réinitialisé.",
-  "RESET_USER_FAILED": "Impossible de réinitialiser le membre %s. Si ce problème continue de se produire, veuillez contacter mes développeurs."
+  "settingsQuestion": "Êtes-vous sûr de vouloir supprimer **TOUS** les paramètres** ?",
+  "pointsQuestion": "Êtes-vous sûr de vouloir supprimer **tous les points** ?",
+  "question": "Êtes-vous sûr de vouloir supprimer les paramètres de **%s** ?",
+  "footer": "AVERTISSEMENT ! La réinitialisation n'est pas réversible.",
+  "pointsSuccess": "**Points** pour tous les membres ont été réinitialisés.",
+  "settingsSuccess": "**%s** Les paramètres ont été réinitialisés",
+  "success": "La réinitialisation des paramètres de **%s** a été annulée.",
+  "userNotFound": "Veuillez entrer un utilisateur valide.",
+  "userSuccess": "Le membre %s Exp a été réinitialisé.",
+  "userFailed": "Impossible de réinitialiser le membre %s. Si ce problème continue de se produire, veuillez contacter mes développeurs."
 }

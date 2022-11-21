@@ -1,18 +1,18 @@
 {
-  "KOTH_HELP_DESCRIPTION": "Eine temporäre Rangliste, die es dem Top-Mitglied ermöglicht, verschiedene Belohnungen zu verdienen.",
-  "KOTH_HELP_USAGE": [
+  "helpDescription": "Eine temporäre Rangliste, die es dem Top-Mitglied ermöglicht, verschiedene Belohnungen zu verdienen.",
+  "helpUsage": [
     "Koth-Event starten/beenden.```/koth <start/end> [channel]```",
     "Lege eine Belohnung für das beste Mitglied der Koth-Rangliste fest.```/koth reward <role>```",
     "Zeigt die Koth-Rangliste für den Server an.```/koth leaderboard```"
   ],
-  "KOTH_ENABLE": "KOTH hat begonnen! Hole Dir die Krone 👑!",
-  "KOTH_ENABLE_REWARD": "KOTH wurde gestartet! Top-Mitglied erhält die Rolle %s.",
-  "KOTH_DISABLE": "KOTH ist bereits deaktiviert.",
-  "KOTH_REWARD_ADD_SUCCESS": "Der Koth-Gewinner erhält Rolle %s beim Zurücksetzen von Koth.",
-  "KOTH_WINNERS": "Koth-Gewinner",
-  "KOTH_STARTED": "Koth hat begonnen",
-  "KOTH_NO_WINNERS": "Es gibt nicht genug aktive Mitglieder in diesem Server, um Koth zu beenden.",
-  "KOTH_WINNERS_SENT": "Die Bekanntgabe der Koth-Gewinner wurde in %s gesendet.",
-  "KOTH_START_SENT": "Koth-Startankündigung wurde in %s gesendet.",
-  "KOTH_DISABLED": "Koth ist derzeit auf diesem Server deaktiviert. Bitte die Admins Koth zu aktivieren."
+  "enable": "KOTH hat begonnen! Hole Dir die Krone 👑!",
+  "enableReward": "KOTH wurde gestartet! Top-Mitglied erhält die Rolle %s.",
+  "disable": "KOTH ist bereits deaktiviert.",
+  "rewardAddSuccess": "Der Koth-Gewinner erhält Rolle %s beim Zurücksetzen von Koth.",
+  "winners": "Koth-Gewinner",
+  "started": "Koth hat begonnen",
+  "noWinners": "Es gibt nicht genug aktive Mitglieder in diesem Server, um Koth zu beenden.",
+  "winnersSent": "Die Bekanntgabe der Koth-Gewinner wurde in %s gesendet.",
+  "startSent": "Koth-Startankündigung wurde in %s gesendet.",
+  "disabled": "Koth ist derzeit auf diesem Server deaktiviert. Bitte die Admins Koth zu aktivieren."
 }

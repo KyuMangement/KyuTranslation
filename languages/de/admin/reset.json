@@ -1,17 +1,17 @@
 {
-  "RESET_HELP_DESCRIPTION": "Setze bestimmte Mitglieder oder Einstellungen für den aktuellen Server zurück.",
-  "RESET_HELP_USAGE": [
+  "helpDescription": "Setze bestimmte Mitglieder oder Einstellungen für den aktuellen Server zurück.",
+  "helpUsage": [
     "Exp eines bestimmten Mitglieds zurücksetzen.```/reset user <member>```",
     "Setze eine bestimmte Einstellung zurück.```/reset settings <option>```"
   ],
-  "RESET_SETTINGS_QUESTION": "Möchtest Du wirklich **ALLE** Einstellungen löschen?",
-  "RESET_POINTS_QUESTION": "Möchtest Du wirklich **alle Punkte** löschen?",
-  "RESET_QUESTION": "Möchtest Du die **%s**-Einstellungen wirklich löschen?",
-  "RESET_FOOTER": "WARNUNG! Das Zurücksetzen ist nicht umkehrbar.",
-  "RESET_POINTS_SUCCESS": "**Punkte** für alle Mitglieder wurden zurückgesetzt.",
-  "RESET_SETTINGS_SUCCESS": "**%s**-Einstellungen wurden zurückgesetzt",
-  "RESET_SUCCESS": "Das Zurücksetzen der **%s**-Einstellungen wurde abgebrochen.",
-  "RESET_USER_NOT_FOUND": "Bitte gebe ein gültiges Mitglied ein.",
-  "RESET_USER_SUCCESS": "Mitglied %s Exp wurden zurückgesetzt.",
-  "RESET_USER_FAILED": "Mitglied %s kann nicht zurückgesetzt werden. Wenn dieses Problem weiterhin auftritt, wende Dich bitte an meine Entwickler."
+  "settingsQuestion": "Möchtest Du wirklich **ALLE** Einstellungen löschen?",
+  "pointsQuestion": "Möchtest Du wirklich **alle Punkte** löschen?",
+  "question": "Möchtest Du die **%s**-Einstellungen wirklich löschen?",
+  "footer": "WARNUNG! Das Zurücksetzen ist nicht umkehrbar.",
+  "pointsSuccess": "**Punkte** für alle Mitglieder wurden zurückgesetzt.",
+  "settingsSuccess": "**%s**-Einstellungen wurden zurückgesetzt",
+  "success": "Das Zurücksetzen der **%s**-Einstellungen wurde abgebrochen.",
+  "userNotFound": "Bitte gebe ein gültiges Mitglied ein.",
+  "userSuccess": "Mitglied %s Exp wurden zurückgesetzt.",
+  "userFailed": "Mitglied %s kann nicht zurückgesetzt werden. Wenn dieses Problem weiterhin auftritt, wende Dich bitte an meine Entwickler."
 }

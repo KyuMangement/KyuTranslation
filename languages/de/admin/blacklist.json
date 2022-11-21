@@ -1,21 +1,21 @@
 {
-  "BLACKLIST_HELP_DESCRIPTION": "Füge Kanäle/Rollen zur Blacklist hinzu, um das Verdienen von Exp zu verhindern.",
-  "BLACKLIST_HELP_USAGE": [
+  "helpDescription": "Füge Kanäle/Rollen zur Blacklist hinzu, um das Verdienen von Exp zu verhindern.",
+  "helpUsage": [
     "Fügt einen Kanal zur Blacklist hinzu/entfernt ihn.```/blacklist channel <add/remove> <channel>```",
     "Fügt eine Rolle zur Blacklist hinzu/entfernt sie.```/blacklist role <add/remove> <role>```",
     "Zeigt eine Liste der derzeit auf der Blacklist stehenden Rollen und Kanäle an.```/blacklist show```"
   ],
-  "BLACKLIST_INVALID_CHANNEL_TYPE": "Der angegebene Kanaltyp ist ungültig, bitte stelle sicher, dass der Kanaltyp `%s ` ist.",
-  "BLACKLIST_CHANNEL_ALREADY_BLACKLISTED": "%s Kanal ist bereits auf der Blacklist.",
-  "BLACKLIST_CHANNEL_ADDED": "Kanal **%s** wurde zur Blacklist hinzugefügt.",
-  "BLACKLIST_NOT_FOUND": "Rolle/Kanal kann mit Suchabfrage `%s` nicht gefunden werden. Stelle sicher, dass die angegebene Abfrage korrekt ist.",
-  "BLACKLIST_CHANNEL_NOT_BLACKLISTED": "%s Kanal ist nicht auf der Blacklist.",
-  "BLACKLIST_CHANNEL_REMOVED": "Kanal **%s** wurde von der Blacklist entfernt.",
-  "BLACKLIST_ROLE_ALREADY_BLACKLISTED": "%s Kanal ist bereits auf der Blacklist.",
-  "BLACKLIST_ROLE_ADDED": "Rolle **%s** wurde zur Blacklist hinzugefügt.",
-  "BLACKLIST_ROLE_REMOVED": "Rolle **%s** wurde von der Blacklist entfernt.",
-  "BLACKLIST_ROLE_NOT_BLACKLISTED": "%s Rolle ist nicht auf der Blacklist.",
-  "BLACKLIST_ROLE_LIST": "Blacklist-Rollen: ```%s```",
-  "BLACKLIST_CHANNEL_LIST": "Blacklist-Kanäle: ```%s```",
-  "BLACKLIST_ROLE_LIST_EMPTY": "Keine Rollen auf der Blacklist."
+  "invalidChannelType": "Der angegebene Kanaltyp ist ungültig, bitte stelle sicher, dass der Kanaltyp `%s ` ist.",
+  "channelAlreadyBlacklisted": "%s Kanal ist bereits auf der Blacklist.",
+  "channelAdded": "Kanal **%s** wurde zur Blacklist hinzugefügt.",
+  "notFound": "Rolle/Kanal kann mit Suchabfrage `%s` nicht gefunden werden. Stelle sicher, dass die angegebene Abfrage korrekt ist.",
+  "channelNotBlacklisted": "%s Kanal ist nicht auf der Blacklist.",
+  "channelRemoved": "Kanal **%s** wurde von der Blacklist entfernt.",
+  "roleAlreadyBlacklisted": "%s Kanal ist bereits auf der Blacklist.",
+  "roleAdded": "Rolle **%s** wurde zur Blacklist hinzugefügt.",
+  "roleRemoved": "Rolle **%s** wurde von der Blacklist entfernt.",
+  "roleNotBlacklisted": "%s Rolle ist nicht auf der Blacklist.",
+  "roleList": "Blacklist-Rollen: ```%s```",
+  "channelList": "Blacklist-Kanäle: ```%s```",
+  "roleListEmpty": "Keine Rollen auf der Blacklist."
 }

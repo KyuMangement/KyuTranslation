@@ -1,10 +1,10 @@
 {
-  "GIVEXP_HELP_DESCRIPTION": "Recompensa a los usuarios con una cantidad específica de exp.",
-  "GIVEXP_HELP_USAGE": [
+  "helpDescription": "Recompensa a los usuarios con una cantidad específica de exp.",
+  "helpUsage": [
     "Recompensar a los usuarios con una cantidad específica de exp.````/dedxp <serer> <pp> `` `` `` `` `` `` `` `` `` `` `` `"
   ],
-  "GIVEXP_USER_NOT_PREMIUM": "Esta característica solo está disponible para el donante.Obtenga más información utilizando 'donate'",
-  "GIVEXP_INPUT_TOO_HIGH": "Solo EXP entre 1-20,000 se puede administrar a la vez.Cambie la cantidad de exp.",
-  "GIVEXP_USER_NOT_FOUND": "No se puede encontrar al usuario mencionado, asegúrese de que el usuario proporcionado esté en el gremio.",
-  "GIVEXP_SUCCESS": "%s ha recibido **%s ** exp."
+  "userNotPremium": "Esta característica solo está disponible para el donante.Obtenga más información utilizando 'donate'",
+  "inputTooHigh": "Solo EXP entre 1-20,000 se puede administrar a la vez.Cambie la cantidad de exp.",
+  "userNotFound": "No se puede encontrar al usuario mencionado, asegúrese de que el usuario proporcionado esté en el gremio.",
+  "success": "%s ha recibido **%s ** exp."
 }

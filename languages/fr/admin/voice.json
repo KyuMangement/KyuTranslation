@@ -1,20 +1,20 @@
 {
-  "VOICE_HELP_DESCRIPTION": "Modifier les paramètres pour l'exp vocale.",
-  "VOICE_HELP_USAGE": [
+  "helpDescription": "Modifier les paramètres pour l'exp vocale.",
+  "helpUsage": [
     "Blacklister un salon en gagnant un canal exp.```/voice blacklist <add/remove> <channel>```",
     "Liste noire un rôle en gagnant le rôle exp.```/voice blacklist <add/remove> <role>```",
     "Activer ou désactiver le paramètre vocal.```/voice <enable/disable>```",
     "Affiche le classement vocal pour le serveur.```/voice leaderboard```",
     "Afficher une liste des salons / rôles actuellement sur la liste noire.```/voice show```"
   ],
-  "VOICE_ENABLED": "L'exp vocal a été **activé**.",
-  "VOICE_DISABLED": "L'exp vocal a été **désactivé**.",
-  "VOICE_CHANNEL_INCLUDED": "Le canal %s est **déjà** sur la liste noire.",
-  "VOICE_CHANNEL_ADD_SUCCESS": "Le salon %s a été **ajouté** à la liste noire.",
-  "VOICE_CHANNEL_REMOVE_SUCCESS": "Le canal %s a été **supprimé** de la liste noire.",
-  "VOICE_CHANNEL_NOT_INCLUDED": "Le canal %s n'est **pas** sur la liste noire.",
-  "VOICE_ROLE_INCLUDED": "Le rôle %s est **déjà** sur la liste noire.",
-  "VOICE_ROLE_ADD_SUCCESS": "Le rôle %s a été **ajouté** à la liste noire.",
-  "VOICE_ROLE_REMOVE_SUCCESS": "Le rôle %s a été **supprimé** de la liste noire.",
-  "VOICE_ROLE_NOT_INCLUDED": "Le rôle %s n'est **pas** sur liste noire."
+  "enabled": "L'exp vocal a été **activé**.",
+  "disabled": "L'exp vocal a été **désactivé**.",
+  "channelIncluded": "Le canal %s est **déjà** sur la liste noire.",
+  "channelAddSuccess": "Le salon %s a été **ajouté** à la liste noire.",
+  "channelRemoveSuccess": "Le canal %s a été **supprimé** de la liste noire.",
+  "channelNotIncluded": "Le canal %s n'est **pas** sur la liste noire.",
+  "roleIncluded": "Le rôle %s est **déjà** sur la liste noire.",
+  "roleAddSuccess": "Le rôle %s a été **ajouté** à la liste noire.",
+  "roleRemoveSuccess": "Le rôle %s a été **supprimé** de la liste noire.",
+  "roleNotIncluded": "Le rôle %s n'est **pas** sur liste noire."
 }

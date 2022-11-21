@@ -1,6 +1,6 @@
 {
-  "SUPPORT_HELP_DESCRIPTION": "Obtenga un enlace para unirse al servidor de soporte.",
-  "SUPPORT_HELP_USAGE": [
+  "helpDescription": "Obtenga un enlace para unirse al servidor de soporte.",
+  "helpUsage": [
     "Obtenga un enlace para unirse al servidor de soporte."
   ]
 }

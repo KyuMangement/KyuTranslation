@@ -1,6 +1,6 @@
 {
-  "SUPPORT_HELP_DESCRIPTION": "Get a link to join the support server.",
-  "SUPPORT_HELP_USAGE": [
+  "helpDescription": "Get a link to join the support server.",
+  "helpUsage": [
     "Get a link to join the support server.```/support```"
   ]
 }

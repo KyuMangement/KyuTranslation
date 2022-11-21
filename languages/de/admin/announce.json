@@ -1,15 +1,15 @@
 {
-  "ANNOUNCE_HELP_DESCRIPTION": "Ändere die Einstellungen für Level-Up Nachrichten.",
-  "ANNOUNCE_HELP_USAGE": [
+  "helpDescription": "Ändere die Einstellungen für Level-Up Nachrichten.",
+  "helpUsage": [
     "Ändere die Level-Up Nachricht oder bekomme weitere Informationen.```/announce message custom <text>\n/announce message default\n/announce message variables```",
     "Erwähnungen für Level-Up Nachrichten aktivieren/deaktivieren.```/announce ping <setting>```",
     "Teste die aktuelle Level-Up Nachricht.```/announce test```"
   ],
-  "ANNOUNCE_MESSAGE_TOO_LONG": "Die maximale Zeichenanzahl beträgt 1250, Du hast die Anzahl um **%s** überschritten.",
-  "ANNOUNCE_MESSAGE_SUCCESS": "Level-Up Nachricht wurde geändert zu:```%s```",
-  "ANNOUNCE_MESSAGE_DEFAULT": "Die Level-Up Nachricht wurde zurückgesetzt.",
-  "ANNOUNCE_PING_INCORRECT": "Erwähnungen für Level-Up Nachrichten aktivieren/deaktivieren.```/announce ping <on/off>```",
-  "ANNOUNCE_VARIABLES": "Legt eine benutzerdefinierte Nachricht für Level-Up Nachrichten fest.```/announce message custom <text>\n/announce message default```\n__Variables__\n`{user.ping}`: @KyuBot\n`{user.tag}`: KyuBot#9767\n`{user.name}`: KyuBot\n`{user.avatar}`: Benutzer-Avatar\n`{user.id}`: 932319321559015526\n`{user.nick}`: Benutzer-Nickname\n`{user.exp}`: Benutzer-Exp\n\n`{level}`: Erreichtes Level\n`{level.previous}`: Vorheriges Level\n`{level.previous.exp}`: Vorherige Level Exp\n`{level.next}`: Nächstes Level\n`{level.next.exp}`: Nächste Level Exp\n\n`{reward}`: Erhaltene Rolle\n`{reward.role.name}`: Erhaltener Rollenname\n`{reward.rolecount}`: Mitgliederanzahl mit der selben Rolle\n`{reward.rolecount.progess}`: Prozent der Rollen, die das Mitglied von allen verfügbaren Rollen hat\n`{reward.previous}`: Vorherige Rolle\n`{reward.next}`: Nächste Rolle\n\n`{server.name}`: Server Name\n`{server.id}`: Server ID\n`{server.icon}`: Server Symbol\n\n`{channel}`: Ankündigungskanal\n`{channel.name}`: Name des Ankündigungskanals\n`{channel.id}`: Ankündigungskanal ID\n\n`{date}`: Aktuelles Datum mit Uhrzeit (<t:%s:F>)",
-  "ANNOUNCE_PING_SUCCESS_ENABLED": "Level-Up Erwähnungen wurden **aktiviert**.",
-  "ANNOUNCE_PING_SUCCESS_DISABLED": "Level-Up Erwähnungen wurden **deaktiviert**."
+  "messageTooLong": "Die maximale Zeichenanzahl beträgt 1250, Du hast die Anzahl um **%s** überschritten.",
+  "messageSuccess": "Level-Up Nachricht wurde geändert zu:```%s```",
+  "messageDefault": "Die Level-Up Nachricht wurde zurückgesetzt.",
+  "pingIncorrect": "Erwähnungen für Level-Up Nachrichten aktivieren/deaktivieren.```/announce ping <on/off>```",
+  "variables": "Legt eine benutzerdefinierte Nachricht für Level-Up Nachrichten fest.```/announce message custom <text>\n/announce message default```\n__Variables__\n`{user.ping}`: @KyuBot\n`{user.tag}`: KyuBot#9767\n`{user.name}`: KyuBot\n`{user.avatar}`: Benutzer-Avatar\n`{user.id}`: 932319321559015526\n`{user.nick}`: Benutzer-Nickname\n`{user.exp}`: Benutzer-Exp\n\n`{level}`: Erreichtes Level\n`{level.previous}`: Vorheriges Level\n`{level.previous.exp}`: Vorherige Level Exp\n`{level.next}`: Nächstes Level\n`{level.next.exp}`: Nächste Level Exp\n\n`{reward}`: Erhaltene Rolle\n`{reward.role.name}`: Erhaltener Rollenname\n`{reward.rolecount}`: Mitgliederanzahl mit der selben Rolle\n`{reward.rolecount.progess}`: Prozent der Rollen, die das Mitglied von allen verfügbaren Rollen hat\n`{reward.previous}`: Vorherige Rolle\n`{reward.next}`: Nächste Rolle\n\n`{server.name}`: Server Name\n`{server.id}`: Server ID\n`{server.icon}`: Server Symbol\n\n`{channel}`: Ankündigungskanal\n`{channel.name}`: Name des Ankündigungskanals\n`{channel.id}`: Ankündigungskanal ID\n\n`{date}`: Aktuelles Datum mit Uhrzeit (<t:%s:F>)",
+  "pingSuccessEnabled": "Level-Up Erwähnungen wurden **aktiviert**.",
+  "pingSuccessDisabled": "Level-Up Erwähnungen wurden **deaktiviert**."
 }

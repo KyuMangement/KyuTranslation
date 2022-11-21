@@ -1,21 +1,21 @@
 {
-  "BLACKLIST_HELP_DESCRIPTION": "Liste noire des canaux/rôles en gagnant de l'expérience.",
-  "BLACKLIST_HELP_USAGE": [
+  "helpDescription": "Liste noire des canaux/rôles en gagnant de l'expérience.",
+  "helpUsage": [
     "Ajoute/supprime un canal à la liste noire.```/blacklist channel <add/remove> <channel>```",
     "Ajoute/supprime un rôle à la liste noire.```/blacklist role <add/remove> <role>```",
     "Affiche une liste des rôles et salons actuellement sur la liste noire.```/blacklist show```"
   ],
-  "BLACKLIST_INVALID_CHANNEL_TYPE": "Le type de canal donné est invalide, assurez-vous que le type de canal est `%s`.",
-  "BLACKLIST_CHANNEL_ALREADY_BLACKLISTED": "Le canal %s est déjà sur la liste noire.",
-  "BLACKLIST_CHANNEL_ADDED": "Le canal **%s** a été mis en liste noire.",
-  "BLACKLIST_NOT_FOUND": "Impossible de trouver le rôle/canal en utilisant la requête de recherche `%s`. Assurez-vous que la requête donnée est correcte.",
-  "BLACKLIST_CHANNEL_NOT_BLACKLISTED": "Le salon %s n'est pas sur liste noire.",
-  "BLACKLIST_CHANNEL_REMOVED": "Le salon **%s** a été retiré de la liste noire.",
-  "BLACKLIST_ROLE_ALREADY_BLACKLISTED": "%s est déjà sur la liste noire.",
-  "BLACKLIST_ROLE_ADDED": "Rôle **%s** a été mis sur liste noire.",
-  "BLACKLIST_ROLE_REMOVED": "Rôle **%s** a été retiré de la liste noire.",
-  "BLACKLIST_ROLE_NOT_BLACKLISTED": "Le rôle %s n'est pas sur liste noire.",
-  "BLACKLIST_ROLE_LIST": "Rôles sur liste noire:```%s```",
-  "BLACKLIST_CHANNEL_LIST": "Canaux sur liste noire:```%s```",
-  "BLACKLIST_ROLE_LIST_EMPTY": "Il n'y a aucun rôle sur la liste noire."
+  "invalidChannelType": "Le type de canal donné est invalide, assurez-vous que le type de canal est `%s`.",
+  "channelAlreadyBlacklisted": "Le canal %s est déjà sur la liste noire.",
+  "channelAdded": "Le canal **%s** a été mis en liste noire.",
+  "notFound": "Impossible de trouver le rôle/canal en utilisant la requête de recherche `%s`. Assurez-vous que la requête donnée est correcte.",
+  "channelNotBlacklisted": "Le salon %s n'est pas sur liste noire.",
+  "channelRemoved": "Le salon **%s** a été retiré de la liste noire.",
+  "roleAlreadyBlacklisted": "%s est déjà sur la liste noire.",
+  "roleAdded": "Rôle **%s** a été mis sur liste noire.",
+  "roleRemoved": "Rôle **%s** a été retiré de la liste noire.",
+  "roleNotBlacklisted": "Le rôle %s n'est pas sur liste noire.",
+  "roleList": "Rôles sur liste noire:```%s```",
+  "channelList": "Canaux sur liste noire:```%s```",
+  "roleListEmpty": "Il n'y a aucun rôle sur la liste noire."
 }

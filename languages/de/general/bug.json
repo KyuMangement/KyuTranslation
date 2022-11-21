@@ -1,7 +1,7 @@
 {
-  "BUG_HELP_DESCRIPTION": "Melde einen Fehler an die Entwickler",
-  "BUG_HELP_USAGE": [
+  "helpDescription": "Melde einen Fehler an die Entwickler",
+  "helpUsage": [
     "Melde einen Fehler an die Entwickler.```/bug```"
   ],
-  "BUG_SUCCESS": "Vielen Dank für das Einreichen eines Fehlers. Unser Team wird sich so schnell wie möglich darum kümmern!"
+  "success": "Vielen Dank für das Einreichen eines Fehlers. Unser Team wird sich so schnell wie möglich darum kümmern!"
 }

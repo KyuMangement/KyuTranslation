@@ -1,7 +1,7 @@
 {
-  "BUG_HELP_DESCRIPTION": "Signaler un bug aux développeurs",
-  "BUG_HELP_USAGE": [
+  "helpDescription": "Signaler un bug aux développeurs",
+  "helpUsage": [
     "Signaler un bug aux développeurs.```/bug```"
   ],
-  "BUG_SUCCESS": "Merci d'avoir envoyé un bug. Notre équipe examinera cela dès que possible!"
+  "success": "Merci d'avoir envoyé un bug. Notre équipe examinera cela dès que possible!"
 }

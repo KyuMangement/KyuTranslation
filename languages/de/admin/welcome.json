@@ -1,9 +1,9 @@
 {
-  "WELCOME_HELP_DESCRIPTION": "Ändere die Einstellungen, wenn Mitglieder dem Server beitreten.",
-  "WELCOME_HELP_USAGE": [
+  "helpDescription": "Ändere die Einstellungen, wenn Mitglieder dem Server beitreten.",
+  "helpUsage": [
     "Lege eine Rolle fest, die Mitglieder erhalten, wenn sie dem Server beitreten.```/welcome role <role>```",
     "Deaktiviere die Einstellung, damit Mitglieder beim Beitritt keine Rolle erhalten.```/welcome disable```"
   ],
-  "WELCOME_ENABLE": "Mitglieder erhalten jetzt die Rolle %s, wenn sie dem Server beitreten.",
-  "WELCOME_DISABLE": "Mitglieder erhalten keine Rolle mehr, wenn sie dem Server beitreten."
+  "enable": "Mitglieder erhalten jetzt die Rolle %s, wenn sie dem Server beitreten.",
+  "disable": "Mitglieder erhalten keine Rolle mehr, wenn sie dem Server beitreten."
 }

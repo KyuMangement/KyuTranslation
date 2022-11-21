@@ -1,8 +1,8 @@
 {
-  "LEADERBOARD_HELP_DESCRIPTION": "Affiche les différents classements pour le serveur.",
-  "LEADERBOARD_HELP_USAGE": [
+  "helpDescription": "Affiche les différents classements pour le serveur.",
+  "helpUsage": [
     "Affiche le classement du serveur.```/leaderboard normal\n/leaderboard koth\n/leaderboard voice```"
   ],
-  "LEADERBOARD_KOTH_DISABLED": "KOTH est actuellement désactivé dans cette guilde. Veuillez demander aux administrateurs d'activer KOTH.",
-  "LEADERBOARD_VOICE_DISABLED": "L'Exp vocale est actuellement désactivée dans cette guilde. Veuillez demander aux administrateurs d'activer l'expérience vocale."
+  "kothDisabled": "KOTH est actuellement désactivé dans cette guilde. Veuillez demander aux administrateurs d'activer KOTH.",
+  "voiceDisabled": "L'Exp vocale est actuellement désactivée dans cette guilde. Veuillez demander aux administrateurs d'activer l'expérience vocale."
 }

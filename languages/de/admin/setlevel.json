@@ -1,11 +1,11 @@
 {
-  "SETLEVEL_HELP_DESCRIPTION": "Lege das Level eines Mitglieds oder das Level für Mitglieder fest, die eine bestimmte Rolle haben.",
-  "SETLEVEL_HELP_USAGE": [
+  "helpDescription": "Lege das Level eines Mitglieds oder das Level für Mitglieder fest, die eine bestimmte Rolle haben.",
+  "helpUsage": [
     "Mitglied auf ein bestimmtes Level setzen.```/setlevel user <member> <level>```",
     "Aktualisiere das Level für alle Mitglieder, die eine bestimmte Rolle haben.```/setlevel role <member> <level>```"
   ],
-  "SETLEVEL_INCORRECT": "Stelle sicher, dass das Level, das Du angibst, zwischen 0 und 100 liegt.",
-  "SETLEVEL_SUCCESS": "Das Level von %s wurde auf `%s` gesetzt.",
-  "SETLEVEL_NO_BOT": "Das Level eines Bots kann nicht festgelegt werden.",
-  "SETLEVEL_ROLE_SUCCESS": "Level wurden für %s Mitglieder aktualisiert."
+  "incorrect": "Stelle sicher, dass das Level, das Du angibst, zwischen 0 und 100 liegt.",
+  "success": "Das Level von %s wurde auf `%s` gesetzt.",
+  "noBot": "Das Level eines Bots kann nicht festgelegt werden.",
+  "roleSuccess": "Level wurden für %s Mitglieder aktualisiert."
 }

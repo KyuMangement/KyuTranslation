@@ -1,17 +1,17 @@
 {
-  "RESET_HELP_DESCRIPTION": "Reset specific users or settings for the current server.",
-  "RESET_HELP_USAGE": [
+  "helpDescription": "Reset specific users or settings for the current server.",
+  "helpUsage": [
     "Reset specific settings for the current server.```/reset user <member>```",
     "Reset a specific setting.```/reset settings <option>```"
   ],
-  "RESET_SETTINGS_QUESTION": "Are you sure you want to delete **ALL** settings?",
-  "RESET_POINTS_QUESTION": "Are you sure you want to delete **all points**?",
-  "RESET_QUESTION": "Are you sure you want to delete **%s** settings?",
-  "RESET_FOOTER": "WARNING! Resetting is non reversible.",
-  "RESET_POINTS_SUCCESS": "**Points** for all members have been reset.",
-  "RESET_SETTINGS_SUCCESS": "**%s** settings have been reset",
-  "RESET_SUCCESS": "Reset for **%s** settings has been cancelled.",
-  "RESET_USER_NOT_FOUND": "Please input a valid user.",
-  "RESET_USER_SUCCESS": "Member %s exp has been reset.",
-  "RESET_USER_FAILED": "Unable to reset member %s. If this issue keeps occuring please contact my developers."
+  "settingsQuestion": "Are you sure you want to delete **ALL** settings?",
+  "pointsQuestion": "Are you sure you want to delete **all points**?",
+  "question": "Are you sure you want to delete **%s** settings?",
+  "footer": "WARNING! Resetting is non reversible.",
+  "pointsSuccess": "**Points** for all members have been reset.",
+  "settingsSuccess": "**%s** settings have been reset",
+  "success": "Reset for **%s** settings has been cancelled.",
+  "userNotFound": "Please input a valid user.",
+  "userSuccess": "Member %s exp has been reset.",
+  "userFailed": "Unable to reset member %s. If this issue keeps occuring please contact my developers."
 }

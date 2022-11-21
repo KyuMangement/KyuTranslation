@@ -1,18 +1,18 @@
 {
-  "KOTH_HELP_DESCRIPTION": "A temporary leaderboard, which allows the top member to earn different rewards.",
-  "KOTH_HELP_USAGE": [
+  "helpDescription": "A temporary leaderboard, which allows the top member to earn different rewards.",
+  "helpUsage": [
     "Start/end koth event.```/koth <start/end> [channel]```",
     "Set a reward for the top member of the koth leaderbaord.```/koth reward <role>```",
     "Shows the koth leaderboard for the server.```/koth leaderboard```"
   ],
-  "KOTH_ENABLE": "KOTH has started! Claim your crown users 👑!",
-  "KOTH_ENABLE_REWARD": "KOTH has been started! Top member will earn %s role.",
-  "KOTH_DISABLE": "KOTH is already disabled.",
-  "KOTH_REWARD_ADD_SUCCESS": "KOTH winner will earn %s role upon koth reset.",
-  "KOTH_WINNERS": "KOTH Winners",
-  "KOTH_STARTED": "KOTH Started",
-  "KOTH_NO_WINNERS": "Not enough active users in this guild to end KOTH.",
-  "KOTH_WINNERS_SENT": "Koth winners announcement has been sent to %s.",
-  "KOTH_START_SENT": "KOTH starting announcement has been sent to %s.",
-  "KOTH_DISABLED": "KOTH is currently disabled in this guild. Please ask admin's to enable KOTH."
+  "enable": "KOTH has started! Claim your crown users 👑!",
+  "enableReward": "KOTH has been started! Top member will earn %s role.",
+  "disable": "KOTH is already disabled.",
+  "rewardAddSuccess": "KOTH winner will earn %s role upon koth reset.",
+  "winners": "KOTH Winners",
+  "started": "KOTH Started",
+  "noWinners": "Not enough active users in this guild to end KOTH.",
+  "winnersSent": "Koth winners announcement has been sent to %s.",
+  "startSent": "KOTH starting announcement has been sent to %s.",
+  "disabled": "KOTH is currently disabled in this guild. Please ask admin's to enable KOTH."
 }

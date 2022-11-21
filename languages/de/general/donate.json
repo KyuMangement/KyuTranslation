@@ -1,10 +1,10 @@
 {
-  "DONATE_HELP_DESCRIPTION": "Spende, um zusätzliche Funktionen freizuschalten",
-  "DONATE_HELP_USAGE": [
+  "helpDescription": "Spende, um zusätzliche Funktionen freizuschalten",
+  "helpUsage": [
     "Erfahre mehr darüber, wie man spenden kann.```/donate```"
   ],
-  "DONATE_TITLE": "KyuBot Premium",
-  "DONATE_DESCRIPTION": "Wenn Du KyuBot gerne verwendest, denke bitte über eine Spende nach. Mit einer Spende kannst Du **zusätzliche Funktionen** freischalten und erlauben uns auch weiterhin den Bot zu hosten, zu entwickeln und neuen Inhalt hinzuzufügen.",
-  "DONATE_FIELD_NAME": "Premium Inhalte",
-  "DONATE_FIELD_VALUE": "- Hintergrund der Rangkarte anpassen\n- Farbe der Rangkarte anpassen\n- Deckkraft der Rangkarte anpassen\n- Exp von Mitgliedern hinzufügen/entfernen (erfordert Admin)\n- Abklingzeit ändern\n- Einblicke in neue Features"
+  "title": "KyuBot Premium",
+  "description": "Wenn Du KyuBot gerne verwendest, denke bitte über eine Spende nach. Mit einer Spende kannst Du **zusätzliche Funktionen** freischalten und erlauben uns auch weiterhin den Bot zu hosten, zu entwickeln und neuen Inhalt hinzuzufügen.",
+  "fieldName": "Premium Inhalte",
+  "fieldValue": "- Hintergrund der Rangkarte anpassen\n- Farbe der Rangkarte anpassen\n- Deckkraft der Rangkarte anpassen\n- Exp von Mitgliedern hinzufügen/entfernen (erfordert Admin)\n- Abklingzeit ändern\n- Einblicke in neue Features"
 }

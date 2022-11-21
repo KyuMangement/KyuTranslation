@@ -1,10 +1,10 @@
 {
-  "GIVEXP_HELP_DESCRIPTION": "Belohne Mitglieder mit einer bestimmten Menge an Exp.",
-  "GIVEXP_HELP_USAGE": [
+  "helpDescription": "Belohne Mitglieder mit einer bestimmten Menge an Exp.",
+  "helpUsage": [
     "Belohne Mitglieder mit einer bestimmten Menge an Exp.```/givexp <user> <exp>```"
   ],
-  "GIVEXP_USER_NOT_PREMIUM": "Diese Funktion ist nur mit Premium verfügbar. Finde mehr Informationen mit `donate`",
-  "GIVEXP_INPUT_TOO_HIGH": "Es kann nur zwischen 1 und 20.000 Exp auf einmal gegeben werden. Bitte ändere die Exp-Menge.",
-  "GIVEXP_USER_NOT_FOUND": "Das erwähnte Mitglied kann nicht gefunden werden. Stelle bitte sicher, dass das angegebene Mitglied auf dem Server ist.",
-  "GIVEXP_SUCCESS": "%s wurde **%s** Exp gegeben."
+  "userNotPremium": "Diese Funktion ist nur mit Premium verfügbar. Finde mehr Informationen mit `donate`",
+  "inputTooHigh": "Es kann nur zwischen 1 und 20.000 Exp auf einmal gegeben werden. Bitte ändere die Exp-Menge.",
+  "userNotFound": "Das erwähnte Mitglied kann nicht gefunden werden. Stelle bitte sicher, dass das angegebene Mitglied auf dem Server ist.",
+  "success": "%s wurde **%s** Exp gegeben."
 }

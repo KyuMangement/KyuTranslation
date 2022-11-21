@@ -1,21 +1,21 @@
 {
-  "BLACKLIST_HELP_DESCRIPTION": "Canales/roles de lista negra al obtener exp.",
-  "BLACKLIST_HELP_USAGE": [
+  "helpDescription": "Canales/roles de lista negra al obtener exp.",
+  "helpUsage": [
     "Agrega/elimina un canal a Blacklist.'```/Blacklist Channel <add/remove> <nannel> `` ``",
     "Agrega/elimina un papel a la lista negra.'``/Blacklist rol <add/remove> <sol> `` `` `` `` `` `` `` `",
     "Muestra una lista de roles y canales de la lista negra actualmente."
   ],
-  "BLACKLIST_INVALID_CHANNEL_TYPE": "El tipo de canal dado no es válido, asegúrese de que el tipo de canal sea `%S`.",
-  "BLACKLIST_CHANNEL_ALREADY_BLACKLISTED": "%s canal ya está en la lista negra.",
-  "BLACKLIST_CHANNEL_ADDED": "Channel **%s ** ha sido lista negra.",
-  "BLACKLIST_NOT_FOUND": "No se puede encontrar el rol/canal utilizando la consulta de búsqueda `%S`.Asegúrese de que la consulta dada sea correcta.",
-  "BLACKLIST_CHANNEL_NOT_BLACKLISTED": "%S El canal no está en la lista negra.",
-  "BLACKLIST_CHANNEL_REMOVED": "El canal **%S ** se ha eliminado de la lista negra.",
-  "BLACKLIST_ROLE_ALREADY_BLACKLISTED": "%s ya está en la lista negra.",
-  "BLACKLIST_ROLE_ADDED": "Rol **%s ** ha sido lista negra.",
-  "BLACKLIST_ROLE_REMOVED": "Rol **%s ** se ha eliminado de la lista negra.",
-  "BLACKLIST_ROLE_NOT_BLACKLISTED": "%S El papel no está en la lista negra.",
-  "BLACKLIST_ROLE_LIST": "Roles en la lista negra: `` `%S```",
-  "BLACKLIST_CHANNEL_LIST": "Canales en la lista negra: `` `%S```",
-  "BLACKLIST_ROLE_LIST_EMPTY": "No hay roles en la lista negra."
+  "invalidChannelType": "El tipo de canal dado no es válido, asegúrese de que el tipo de canal sea `%S`.",
+  "channelAlreadyBlacklisted": "%s canal ya está en la lista negra.",
+  "channelAdded": "Channel **%s ** ha sido lista negra.",
+  "notFound": "No se puede encontrar el rol/canal utilizando la consulta de búsqueda `%S`.Asegúrese de que la consulta dada sea correcta.",
+  "channelNotBlacklisted": "%S El canal no está en la lista negra.",
+  "channelRemoved": "El canal **%S ** se ha eliminado de la lista negra.",
+  "roleAlreadyBlacklisted": "%s ya está en la lista negra.",
+  "roleAdded": "Rol **%s ** ha sido lista negra.",
+  "roleRemoved": "Rol **%s ** se ha eliminado de la lista negra.",
+  "roleNotBlacklisted": "%S El papel no está en la lista negra.",
+  "roleList": "Roles en la lista negra: `` `%S```",
+  "channelList": "Canales en la lista negra: `` `%S```",
+  "roleListEmpty": "No hay roles en la lista negra."
 }

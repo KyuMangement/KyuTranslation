@@ -1,6 +1,6 @@
 {
-  "STATS_HELP_DESCRIPTION": "Überprüfe die aktuellen Bot-Statistiken.",
-  "STATS_HELP_USAGE": [
+  "helpDescription": "Überprüfe die aktuellen Bot-Statistiken.",
+  "helpUsage": [
     "Überprüfe die aktuellen Bot-Statistiken.```/stats```"
   ]
 }

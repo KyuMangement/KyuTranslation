@@ -1,10 +1,10 @@
 {
-  "REMOVEXP_HELP_DESCRIPTION": "Remove a specific amount of exp from a user.",
-  "REMOVEXP_HELP_USAGE": [
+  "helpDescription": "Remove a specific amount of exp from a user.",
+  "helpUsage": [
     "Remove a specific amount of exp from a user.```/removexp <user> <exp>```"
   ],
-  "REMOVEXP_USER_NOT_PREMIUM": "This feature is only available for donator. Find out more information using `donate`",
-  "REMOVEXP_INPUT_TOO_HIGH": "Only exp between 1-20,000 can be removed at once. Please change exp amount.",
-  "REMOVEXP_USER_NOT_FOUND": "Unable to find the mentioned user, please make sure user provided is in the guild.",
-  "REMOVEXP_SUCCESS": "**%s** exp has been removed from %s."
+  "userNotPremium": "This feature is only available for donator. Find out more information using `donate`",
+  "inputTooHigh": "Only exp between 1-20,000 can be removed at once. Please change exp amount.",
+  "userNotFound": "Unable to find the mentioned user, please make sure user provided is in the guild.",
+  "success": "**%s** exp has been removed from %s."
 }

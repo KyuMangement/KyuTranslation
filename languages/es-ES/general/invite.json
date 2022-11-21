@@ -1,6 +1,6 @@
 {
-  "INVITE_HELP_DESCRIPTION": "Obtenga un enlace para agregar Kyubot a su servidor.",
-  "INVITE_HELP_USAGE": [
+  "helpDescription": "Obtenga un enlace para agregar Kyubot a su servidor.",
+  "helpUsage": [
     "Obtenga un enlace para agregar kyubot a su servidor."
   ]
 }

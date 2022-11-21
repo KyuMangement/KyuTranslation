@@ -1,15 +1,15 @@
 {
-  "LOOTBOX_HELP_DESCRIPTION": "Öffne Lootboxen, um zusätzliche Exp zu verdienen.",
-  "LOOTBOX_HELP_USAGE": [
+  "helpDescription": "Öffne Lootboxen, um zusätzliche Exp zu verdienen.",
+  "helpUsage": [
     "Öffne eine Lootbox, um zusätzliche Exp und andere Belohnungen zu verdienen.```/lootbox open```",
     "Deaktiviere/aktiviere die Möglichkeit für Mitglieder, Lootboxen zu öffnen (nur Admins).```/lootbox toggle```",
     "Überprüfe Deine aktuellen Statistiken für Lootboxen.```/lootbox stats```"
   ],
-  "LOOTBOX_ENABLED": "Lootboxen wurden auf diesem Server **aktiviert**.",
-  "LOOTBOX_DISABLED": "Lootboxen wurden auf diesem Server **deaktiviert**.",
-  "LOOTBOX_SERVER_DISABLED": "Es scheint, als wären Lootboxen auf diesem Server deaktiviert <:KyuSad:948319004869668915>. Bitte einen Admin **Lootboxen zu aktivieren!!!**",
-  "LOOTBOX_MAX": "Du hast die maximale Anzahl an Lootboxen auf diesem Server für diese Woche geöffnet. Du kannst am %s weitere Lootboxen öffnen.",
-  "LOOTBOX_NONE_LEFT": "Sieht so aus als hättest du keine Lootboxen mehr übrig. Stimme ab um mehr zu erhalten!",
-  "LOOTBOX_EXP": "`%s` <:gweensparkles:933110632444723261> Exp aus der Lootbox erhalten.",
-  "LOOTBOX_OPENED": "%sX Lootbox geöffnet!"
+  "enabled": "Lootboxen wurden auf diesem Server **aktiviert**.",
+  "disabled": "Lootboxen wurden auf diesem Server **deaktiviert**.",
+  "serverDisabled": "Es scheint, als wären Lootboxen auf diesem Server deaktiviert <:KyuSad:948319004869668915>. Bitte einen Admin **Lootboxen zu aktivieren!!!**",
+  "max": "Du hast die maximale Anzahl an Lootboxen auf diesem Server für diese Woche geöffnet. Du kannst am %s weitere Lootboxen öffnen.",
+  "noneLeft": "Sieht so aus als hättest du keine Lootboxen mehr übrig. Stimme ab um mehr zu erhalten!",
+  "exp": "`%s` <:gweensparkles:933110632444723261> Exp aus der Lootbox erhalten.",
+  "opened": "%sX Lootbox geöffnet!"
 }

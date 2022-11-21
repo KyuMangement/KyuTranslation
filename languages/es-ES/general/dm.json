@@ -1,8 +1,8 @@
 {
-  "DM_HELP_DESCRIPTION": "Habilitar/deshabilitar DMS de Kyubot para anuncios en todos los servidores",
-  "DM_HELP_USAGE": [
+  "helpDescription": "Habilitar/deshabilitar DMS de Kyubot para anuncios en todos los servidores",
+  "helpUsage": [
     "Habilitar/deshabilitar DMS de Kyubot para anuncios en todos los servidores."
   ],
-  "DM_UPDATE_ENABLED": "Ahora recibirás DMS ** cuando subes de nivel en cualquier gremio.",
-  "DM_UPDATE_DISABLED": "Ya no recibirá DMS ** cuando suba de nivel en ningún gremio."
+  "updateEnabled": "Ahora recibirás DMS ** cuando subes de nivel en cualquier gremio.",
+  "updateDisabled": "Ya no recibirá DMS ** cuando suba de nivel en ningún gremio."
 }

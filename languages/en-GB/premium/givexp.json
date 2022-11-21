@@ -1,10 +1,10 @@
 {
-  "GIVEXP_HELP_DESCRIPTION": "Reward users with a specific amount of exp.",
-  "GIVEXP_HELP_USAGE": [
+  "helpDescription": "Reward users with a specific amount of exp.",
+  "helpUsage": [
     "Reward users with a specific amount of exp.```/givexp <user> <exp>```"
   ],
-  "GIVEXP_USER_NOT_PREMIUM": "This feature is only available for donator. Find out more information using `donate`",
-  "GIVEXP_INPUT_TOO_HIGH": "Only exp between 1-20,000 can be given at once. Please change exp amount.",
-  "GIVEXP_USER_NOT_FOUND": "Unable to find the mentioned user, please make sure user provided is in the guild.",
-  "GIVEXP_SUCCESS": "%s has been given **%s** exp."
+  "userNotPremium": "This feature is only available for donator. Find out more information using `donate`",
+  "inputTooHigh": "Only exp between 1-20,000 can be given at once. Please change exp amount.",
+  "userNotFound": "Unable to find the mentioned user, please make sure user provided is in the guild.",
+  "success": "%s has been given **%s** exp."
 }

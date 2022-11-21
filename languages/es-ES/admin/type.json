@@ -1,12 +1,12 @@
 {
-  "TYPE_HELP_DESCRIPTION": "Configuración de cambio para dónde se envían los anuncios.",
-  "TYPE_HELP_USAGE": [
+  "helpDescription": "Configuración de cambio para dónde se envían los anuncios.",
+  "helpUsage": [
     "Establecer dónde se envían mensajes de anuncio.",
     "Mensajes de anuncios directos a un canal específico."
   ],
-  "TYPE_SUCCESS_CHANNEL": "Anuncios El canal se ha establecido en **%s **. `",
-  "TYPE_SUCCESS_DEFAULT": "Los anuncios ahora aparecerán en el canal ** El usuario nivela en **.",
-  "TYPE_SUCCESS_DM": "Se han establecido anuncios en ** DM **.",
-  "TYPE_SUCCESS_OFF": "Se han establecido anuncios en ** OFF **.",
-  "TYPE_SUCCESS_REWARD": "Los anuncios solo se enviarán en niveles que ** recompensa ** miembros."
+  "successChannel": "Anuncios El canal se ha establecido en **%s **. `",
+  "successDefault": "Los anuncios ahora aparecerán en el canal ** El usuario nivela en **.",
+  "successDm": "Se han establecido anuncios en ** DM **.",
+  "successOff": "Se han establecido anuncios en ** OFF **.",
+  "successReward": "Los anuncios solo se enviarán en niveles que ** recompensa ** miembros."
 }

@@ -1,6 +1,6 @@
 {
-  "SETTINGS_HELP_DESCRIPTION": "Verifique la configuración del servidor actual.",
-  "SETTINGS_HELP_USAGE": [
+  "helpDescription": "Verifique la configuración del servidor actual.",
+  "helpUsage": [
     ""
   ]
 }

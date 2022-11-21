@@ -1,15 +1,15 @@
 {
-  "REWARDS_HELP_DESCRIPTION": "Cambiar la configuración de las recompensas ganadas al subir de nivel.",
-  "REWARDS_HELP_USAGE": [
+  "helpDescription": "Cambiar la configuración de las recompensas ganadas al subir de nivel.",
+  "helpUsage": [
     "Establezca el rol que se dará cuando un miembro alcanza el nivel especificado.'```/Rewards Agregar <nivel> <sol> `` ``",
     "Eliminar el rol de ser dado en un nivel especificado.'`` 'Rewards Eliminar <livel> `` `` `` `` `` `` `` ``",
     "Establezca roles para apilar o reemplazar después de obtener un nuevo rol.'```/Rewards Stack <Enlable/Disable> `` ``",
     "Muestra todos los roles establecidos en los niveles."
   ],
-  "REWARDS_SUCCESS": "Los miembros ahora obtendrán un rol %s en el nivel ` %S`.",
-  "REWARDS_NOT_EXISTS": "Incapaz de encontrar una recompensa por nivel %s.",
-  "REWARDS_REMOVED": "Los miembros ya no obtendrán un papel en el nivel `%S`.",
-  "REWARDS_STACK": "Los roles ahora serán apilados.",
-  "REWARDS_REPLACE": "Los roles ahora serán reemplazados.",
-  "REWARDS_LIMIT": "Se han establecido demasiados roles.Actualmente, solo se pueden configurar 30 recompensas de roles."
+  "success": "Los miembros ahora obtendrán un rol %s en el nivel ` %S`.",
+  "notExists": "Incapaz de encontrar una recompensa por nivel %s.",
+  "removed": "Los miembros ya no obtendrán un papel en el nivel `%S`.",
+  "stack": "Los roles ahora serán apilados.",
+  "replace": "Los roles ahora serán reemplazados.",
+  "limit": "Se han establecido demasiados roles.Actualmente, solo se pueden configurar 30 recompensas de roles."
 }

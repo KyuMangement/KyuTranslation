@@ -1,8 +1,8 @@
 {
-  "RANK_HELP_DESCRIPTION": "Check your rank or another user's rank",
-  "RANK_HELP_USAGE": [
+  "helpDescription": "Check your rank or another user's rank",
+  "helpUsage": [
     "Check your rank or another user's rank.```/rank [member] [normal/voice]"
   ],
-  "RANK_VOTE": "Vote for 15% boost",
-  "RANK_IS_BOT": "Unable to check rank of a bot."
+  "vote": "Vote for 15% boost",
+  "isBot": "Unable to check rank of a bot."
 }
