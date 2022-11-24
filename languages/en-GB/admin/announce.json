@@ -11,5 +11,13 @@
   "pingIncorrect": "Enable/disable pings for announcement messages.```/announce ping <on/off>```",
   "variables": "Sets a custom message for announcement messages.```/announce message custom <text>\n/announce message default```\n__Variables__\n`{user.ping}`: @KyuBot\n`{user.tag}`: KyuBot#9767\n`{user.name}`: KyuBot\n`{user.avatar}`: User Avatar\n`{user.id}`: 932319321559015526\n`{user.nick}`: User nickname\n`{user.exp}`: Member experience\n\n`{level}`: Obtained level\n`{level.previous}`: Previous level\n`{level.previous.exp}`: Previous level experience\n`{level.next}`: Next Level\n`{level.next.exp}`: Next level experience\n\n`{reward}`: Obtained role\n`{reward.role.name}`: Obtained role name\n`{reward.rolecount}`: Obtained role member count\n`{reward.rolecount.progess}`: Percentage of roles user has from all roles obtainable\n`{reward.previous}`: Previous role\n`{reward.next}`: Next role\n\n`{server.name}`: Server name\n`{server.id}`: Server ID\n`{server.icon}`: Server icon\n\n`{channel}`: Announcement channel\n`{channel.name}`: Announcement channel name\n`{channel.id}`: Announcement channel ID\n\n`{date}`: Current date (<t:%s:F>)",
   "pingSuccessEnabled": "Announcement pings have been set to **enabled**.",
-  "pingSuccessDisabled": "Announcement pings have been set to **disabled**."
+  "pingSuccessDisabled": "Announcement pings have been set to **disabled**.",
+  "clearSuccess": "Announcement messages will now be deleted after `%s` seconds.",
+  "clearSuccessDisabled": "Announcement messages will no longer to deleted.",
+
+  "typeSuccessChannel": "Announcements channel has been set to **%s**.",
+  "typeSuccessDefault": "Announcements will now appear in the **channel the user levels up in**.",
+  "typeSuccessDm": "Announcements have been set to **dm**.",
+  "typeSuccessOff": "Announcements have been set to **off**.",
+  "typeSuccessReward": "Announcements will only be sent on levels which **reward** members."
 }
