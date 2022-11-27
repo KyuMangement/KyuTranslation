@@ -29,6 +29,8 @@ languages.forEach((direct) => {
   const categories = fs.readdirSync(`./languages/${direct}/`);
   output[direct] = translationSchema;
 
+  const languageObj = {};
+
   categories.forEach((cateogory) => {
     const files = fs
       .readdirSync(`./languages/${direct}/${cateogory}/`)
@@ -38,12 +40,11 @@ languages.forEach((direct) => {
       const fileContent = require(`./languages/${direct}/${cateogory}/${file}`);
       const fileKeys = Object.keys(fileContent);
       for (const key of fileKeys) {
-        output[direct][`${file.replace(".json", "")}.${key}`] =
-          fileContent[key];
+        languageObj[`${file.replace(".json", "")}.${key}`] = fileContent[key];
       }
     }
 
-    output[direct] = orderKeys(output[direct]);
+    output[direct] = {...translationSchema, ...orderKeys(languageObj)};
   });
 });
 
