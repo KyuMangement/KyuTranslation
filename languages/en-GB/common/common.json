@@ -1,7 +1,7 @@
 {
   "addKyu": "Add Kyu",
   "clickHere": "Click Here",
-  "commandDisabled": "`%s` command is currently disabled, this maybe due to a bug. Please join our [support server](https://kyubot.com/support) to stay up to date.",
+  "commandDisabled": "`%s` command is currently disabled, this maybe due to a bug. We are working on getting this fixed as soon as possible, for more information please join our [support server](https://kyubot.com/support).",
   "confirm": "Confirm",
   "decline": "Decline",
   "docs": "Kyu Docs",
@@ -13,6 +13,7 @@
   "guildPremium": "This feature is only available for premium guilds.\n\nIf you enjoy using KyuBot, please consider donating. Donations allow you to unlock **extra features** and also allow us to keep hosting, developing, and creating content updates for the bot.\n\n**Premium Perks**\n\n- Customise rank cards for all members\n- Configure global, channel, or role multiplier for text/voice exp\n- Configure cooldown for text/voice exp\n- Disable voting exp booster\n- Enable lootbox events\n- Automatic leaderboard updates in a specific channel\n- Configure server leaderboard as an image\n- Access to music player (Experimental feature)\n- Sneak peaks/Early access to new features\n- Donator badge for rank card\n\n**Dashboard perks**\n\n- Custom vanity url for server leaderboard\n- Custom banner for server leaderboard\n- Join server button on the server leaderboard",
   "hierarchyError": "Make sure KyuBot's role is above %s in the role hierarchy.",
   "invite": "Invite",
+  "kyuDashboard": "Kyu Dashboard",
   "kyuPremium": "Kyu Premium",
   "next": "Next",
   "previous": "Previous",
