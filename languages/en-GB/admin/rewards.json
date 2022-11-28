@@ -6,11 +6,15 @@
     "Set roles to be stacked or replaced after gaining new role.```/rewards stack <enable/disable>```",
     "Shows all roles set to levels.```/rewards show```"
   ],
-  "success": "Members will now gain role %s at level `%s`.",
+
   "notExists": "Unable to find a reward for level %s.",
-  "removed": "Members will no longer gain a role at level `%s`.",
-  "stack": "Roles will now be stacked.",
-  "replace": "Roles will now be replaced.",
+
+  "stackText": "All text rewards will now be stacked.",
+  "replaceText": "All text rewards will now be replaced.",
+
+  "stackVoice": "All voice rewards will now be stacked.",
+  "replaceVoice": "All voice rewards will now be replaced.",
+
   "limit": "Too many roles have been set up. Currently only 25 role rewards can be setup.",
 
   "badgeInvalidName": "Unable to find a badge with the id `%s`.",
