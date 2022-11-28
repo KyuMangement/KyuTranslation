@@ -23,5 +23,8 @@
   "typeSuccessDefault": "Announcements will now appear in the **channel the user levels up in**.",
   "typeSuccessDm": "Announcements have been set to **dm**.",
   "typeSuccessOff": "Announcements have been set to **off**.",
-  "typeSuccessReward": "Announcements will only be sent on levels which **reward** members."
+  "typeSuccessReward": "Announcements will only be sent on levels which **reward** members.",
+
+  "levelupSuccess": "%s has been sent announcement message.",
+  "channelNotFound": "Unable to find the given channel for announcement."
 }
