@@ -7,5 +7,5 @@
   "incorrect": "Make sure the level you are giving is between 0 and 100.",
   "success": "Member %s level has been set to `%s`.",
   "noBot": "Unable to set the level of a bot user.",
-  "roleSuccess": "Levels have been updated for %s members."
+  "roleSuccess": "Levels have been updated for all members with role %s."
 }

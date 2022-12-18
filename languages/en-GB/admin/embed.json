@@ -9,25 +9,50 @@
     "Test the current announcement message.```/embed test [level]```",
     "Get a list of all the variables available for KyuBot.```/embed variables```"
   ],
+
   "toggleEnabled": "Embeds have been **enabled** for announcements.",
-  "toggleDisabled": "Embeds have been **disabled** for announcements.",
+  "toggleDisabled": "Embeds have been **disabled** for announcements and will be sent as text messages.",
+
   "pingEnabled": "Pings have been **enabled** for announcements.",
   "pingDisabled": "Pings have been **disabled** for announcements.",
+
   "titleTooLong": "Max character count is 100 for title, you are over the count by **%s**.",
   "titleUpdated": "Announcement title has been updated to:```%s```",
+
   "descriptionTooLong": "Max character count is 1250, you are over the count by **%s**.",
   "descriptionUpdated": "Announcement message has been updated to:```%s```",
+
   "imageInvalid": "Given link is not an image, please provide a valid image link. Image types currently supported: jpg | jpeg | png | gif.",
   "imageUpdated": "Announcement embed image has been updated to %s\n\nBy continuing you understand the image you are uploading follows the **[Discord's Terms of Service](https://discord.com/terms)**. Anything that is uploaded is your responsibility and you will be held accountable for it.",
+
   "colorInvalid": "Color %s is not a valid color. Please select a color from one of the following colors:```default\nblue\ngray\ngreen\norange\npink\npurple\nred\nteal\nyellow```",
   "colorUpdated": "Embed color for annnouncement has been updated to **%s**.",
+
+  "clearAmount": "Make sure announcement delete time is between 30-300 seconds.",
+  "clearSuccess": "Announcement messages for level %s will now be deleted after `%s` seconds.",
+  "clearSuccessDisabled": "Announcement messages for level %s will no longer to deleted.",
+
   "customiseInvalidSection": "Unable to edit %s, current sections that can be edited are: `title, description, image, color`.",
   "customiseAddInvalidLevel": "Unable to set announcement for level %s. Please make sure the level is an integer.",
   "customiseAddAlreadyExists": "Announcement already exists for level %s. Please remove/edit the current embed.",
-  "customiseAddMaxReached": "You have reached the maximum amount of 10 custom embeds. Please delete an embed, before adding a new embed for level %s",
+  "customiseAddMaxReached": "You have reached the maximum amount of 10 custom embeds. Please delete an embed, before adding a new embed for level `%s`.\n\nNeed more embeds? Checkout our [guild premium plans](https://kyubot.com/premium).",
   "customiseAddSuccess": "Custom embed has been added for level %s.",
-  "customiseRemoveInvalidLevel": "Custom embed does not exist for level %s.",
   "customiseRemoveNotExists": "Custom embed does not exist for level %s.",
   "customiseRemoveSuccess": "Custom embed has been removed for level %s.",
+
+  "typeChannel": "Announcements channel has been set to **%s** for level %s.",
+  "typeGlobalChannel": "Announcements channel has been set to **%s** for global announcements.",
+  "typeInvalidOption": "Option `%s` is invalid. Please select one of the following options: dm, off, reward, or none.",
+
+  "typeSuccessDefault": "Announcements will now appear in the **channel the user levels up in**.",
+  "typeSuccessDm": "Announcements have been set to **dm**.",
+  "typeSuccessOff": "Announcements have been set to **off**.",
+  "typeSuccessReward": "Announcements will only be sent on levels which **reward** members.",
+
+  "typeSuccessGlobalDefault": "Announcements will now appear in the **channel the user levels up in** for level %s.",
+  "typeSuccessGlobalDm": "Announcements have been set to **dm** for level %s.",
+  "typeSuccessGlobalOff": "Announcements have been set to **off** for level %s.",
+  "typeSuccessGlobalReward": "Announcements will only be sent on levels which **reward** members for level %s.",
+
   "notFound": "Unable to find embed for level %s."
 }

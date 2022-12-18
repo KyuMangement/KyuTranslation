@@ -6,10 +6,34 @@
     "Set roles to be stacked or replaced after gaining new role.```/rewards stack <enable/disable>```",
     "Shows all roles set to levels.```/rewards show```"
   ],
-  "success": "Members will now gain role %s at level `%s`.",
+
   "notExists": "Unable to find a reward for level %s.",
-  "removed": "Members will no longer gain a role at level `%s`.",
-  "stack": "Roles will now be stacked.",
-  "replace": "Roles will now be replaced.",
-  "limit": "Too many roles have been set up. Currently only 30 role rewards can be setup."
+
+  "stackText": "All text rewards will now be stacked.",
+  "replaceText": "All text rewards will now be replaced.",
+
+  "stackVoice": "All voice rewards will now be stacked.",
+  "replaceVoice": "All voice rewards will now be replaced.",
+
+  "limit": "Too many roles have been set up. Currently only 25 role rewards can be setup.",
+
+  "badgeInvalidName": "Unable to find a badge with the id `%s`.",
+  "voiceBadgeAdded": "Badge with name `%s` will be rewarded to user when they reach voice level %s.",
+  "badgeAdded": "Badge with name `%s` will be rewarded to user when they reach text level %s.",
+
+  "invalidLevel": "Unable to find a reward set for level `%s`.",
+  "voiceBadgeRemoved": "Badge reward for level `%s` has been removed from voice leveling.",
+  "badgeRemoved": "Badge reward for level `%s` has been removed from text leveling.",
+
+  "voiceExpAdded": "User will earn `%s` experience when they reach voice level %s.",
+  "expAdded": "User will earn `%s` experience when they reach text level %s.",
+
+  "voiceExpRemoved": "Experience reward for level `%s` has been removed from voice leveling.",
+  "expRemoved": "Experience reward for level `%s` has been removed from text leveling.",
+
+  "voiceRoleAdded": "User will earn %s role when they reach voice level %s.",
+  "roleAdded": "User will earn %s role when they reach text level %s.",
+
+  "voiceRoleRemoved": "Role reward for level `%s` has been removed from voice leveling.",
+  "roleRemoved": "Role reward for level `%s` has been removed from text leveling."
 }

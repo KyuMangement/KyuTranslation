@@ -10,6 +10,7 @@
   "channelAddExists": "Channel %s is **already** in ignored list.",
   "channelRemoveSuccess": "Channel %s has been **removed** from ignore list.",
   "channelRemoveNotExists": "Channel %s is **not** in ignored list.",
+  
   "commandAddSuccess": "Command `%s` has been **added** to ignore list.",
   "commandNotExists": "Command `%s` cannot be found.",
   "commandInvalid": "Commands `help` and `ignore` cannot be added to ignore list.",

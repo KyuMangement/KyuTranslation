@@ -5,14 +5,23 @@
     "Set a reward for the top member of the koth leaderbaord.```/koth reward <role>```",
     "Shows the koth leaderboard for the server.```/koth leaderboard```"
   ],
-  "enable": "KOTH has started! Claim your crown users 👑!",
-  "enableReward": "KOTH has been started! Top member will earn %s role.",
-  "disable": "KOTH is already disabled.",
-  "rewardAddSuccess": "KOTH winner will earn %s role upon koth reset.",
-  "winners": "KOTH Winners",
+
+  "alreadyEnabled": "KOTH is already in progress. Please end the current KOTH to start another contest.",
+  "enabled": "KOTH has started! Claim your crown 👑 by being the most active!",
+  "startSent": "KOTH starting announcement has been sent to %s.",
   "started": "KOTH Started",
+
+  "winners": "KOTH Winners",
   "noWinners": "Not enough active users in this guild to end KOTH.",
   "winnersSent": "Koth winners announcement has been sent to %s.",
-  "startSent": "KOTH starting announcement has been sent to %s.",
-  "disabled": "KOTH is currently disabled in this guild. Please ask admin's to enable KOTH."
+
+  "disabled": "KOTH is already disabled.",
+  "alreadyDisabled": "KOTH is currently disabled in this guild. Please ask admin's to enable KOTH.",
+
+  "badgeInvalidName": "Unable to find a badge with the id `%s`.",
+  "badgeAdded": "Badge with name `%s` will be rewarded to user in %s position.",
+
+  "expAdded": "User in %s position will earn `%s` experience.",
+
+  "roleAdded": "User in %s position will earn %s role."
 }

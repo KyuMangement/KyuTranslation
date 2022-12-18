@@ -1,1 +1,8 @@
-{}
+{
+  "invalidImageUrl": "Given link is not an image, please provide a valid image link. Image types currently supported: jpg|jpeg|png|gif.",
+  "alreadyExists": "A badge with id `%s` already exists. Please enter another name.",
+  "successAdded": "Badge with name `%s` has been added to this server.",
+  "invalidName": "Unable to find a badge with the id `%s`.",
+  "successRemoved": "`%s` badge has been removed from the server.",
+  "alphanumericOnly": "Only alphanumeric characters are allowed for badge names. Please select a name with letters/numbers."
+}

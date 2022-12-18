@@ -8,13 +8,5 @@
     "Show a list of the currently blacklisted channels/roles.```/voice show```"
   ],
   "enabled": "Voice exp has been **enabled**.",
-  "disabled": "Voice exp has been **disabled**.",
-  "channelIncluded": "Channel %s is **already** blacklisted.",
-  "channelAddSuccess": "Channel %s has been **added** to blacklist.",
-  "channelRemoveSuccess": "Channel %s has been **removed** from blacklist.",
-  "channelNotIncluded": "Channel %s is **not** blacklisted.",
-  "roleIncluded": "Role %s is **already** blacklisted.",
-  "roleAddSuccess": "Role %s has been **added** to blacklist.",
-  "roleRemoveSuccess": "Role %s has been **removed** from blacklist.",
-  "roleNotIncluded": "Role %s is **not** blacklisted."
+  "disabled": "Voice exp has been **disabled**."
 }

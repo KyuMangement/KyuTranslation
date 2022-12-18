@@ -17,5 +17,25 @@
   "roleNotBlacklisted": "%s role is not blacklisted.",
   "roleList": "Blacklisted roles:```%s```",
   "channelList": "Blacklisted channels:```%s```",
-  "roleListEmpty": "There are no blacklisted roles."
+  "roleListEmpty": "There are no blacklisted roles.",
+
+  "textChannelIncluded": "Channel %s is **already** in text blacklist.",
+  "textChannelAddSuccess": "Channel %s has been **added** to text blacklist.",
+  "textChannelNotIncluded": "Channel %s is **not** in text blacklist.",
+  "textChannelRemoveSuccess": "Channel %s has been **removed** from text blacklist.",
+
+  "textRoleIncluded": "Role %s is **already** in text blacklist.",
+  "textRoleAddSuccess": "Role %s has been **added** to text blacklist.",
+  "textRoleNotIncluded": "Role %s is **not** in text blacklist.",
+  "textRoleRemoveSuccess": "Role %s has been **removed** from text blacklist.",
+
+  "voiceChannelIncluded": "Channel %s is **already** in voice blacklist.",
+  "voiceChannelAddSuccess": "Channel %s has been **added** to voice blacklist.",
+  "voiceChannelNotIncluded": "Channel %s is **not** in voice blacklist.",
+  "voiceChannelRemoveSuccess": "Channel %s has been **removed** from voice blacklist.",
+
+  "voiceRoleIncluded": "Role %s is **already** in voice blacklist.",
+  "voiceRoleAddSuccess": "Role %s has been **added** to voice blacklist.",
+  "voiceRoleNotIncluded": "Role %s is **not** in voice blacklist.",
+  "voiceRoleRemoveSuccess": "Role %s has been **removed** from voice blacklist."
 }
